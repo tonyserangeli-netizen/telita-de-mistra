@@ -1257,3 +1257,15 @@ Hay mucho más|There's much more|Tem muito mais
 En el menú ☰ → 📘 Tutoriales tenés capítulos de todo: poderes, armas, brillos, combate, dados, cuadros propios, sonidos… y un tutorial completo para máster.|In ☰ → 📘 Tutorials there are chapters for everything: powers, weapons, glows, combat, dice, custom boxes, sounds… and a full GM tutorial.|No menu ☰ → 📘 Tutoriais há capítulos de tudo: poderes, armas, brilhos, combate, dados, quadros próprios, sons… e um tutorial completo para mestre.
 Mapa borrado|Map deleted|Mapa apagado
 Tocá «✎ Editar» para marcar lugares, cambiar el nombre o la imagen, o borrar el mapa.|Tap «✎ Edit» to mark places, change the name or image, or delete the map.|Toque «✎ Editar» para marcar lugares, mudar o nome ou a imagem, ou apagar o mapa.
+Marcar|Mark|Marcar
+Dibujar|Draw|Desenhar
+Grosor|Thickness|Espessura
+Otro color|Other color|Outra cor
+Borrar todo el dibujo|Delete whole drawing|Apagar todo o desenho
+Borrar todas las marcas|Delete all marks|Apagar todas as marcas
+Dibujo borrado|Drawing deleted|Desenho apagado
+Marcas borradas|Marks deleted|Marcas apagadas
+Marca borrada|Mark deleted|Marca apagada
+Tocá el mapa para poner una marca. Tocá una marca para editarla o borrarla.|Tap the map to place a mark. Tap a mark to edit or delete it.|Toque o mapa para colocar uma marca. Toque uma marca para editá-la ou apagá-la.
+Dibujá con un dedo. Con dos dedos movés el mapa y hacés zoom.|Draw with one finger. Use two fingers to move and zoom.|Desenhe com um dedo. Com dois dedos você move e dá zoom.
+Pasá el dedo para borrar el dibujo. Tocá una marca para borrarla.|Swipe to erase the drawing. Tap a mark to delete it.|Passe o dedo para apagar o desenho. Toque uma marca para apagá-la.

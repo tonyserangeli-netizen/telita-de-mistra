@@ -726,3 +726,8 @@ body.hshake .wrap{animation:shake .12s 4}
 
 .mapcw{position:relative;display:flex}.mapcw .mapcard{flex:1}
 .mapx{position:absolute;top:12px;right:12px;min-width:36px;height:36px;padding:0 8px;border-radius:18px;border:1px solid var(--line);background:rgba(0,0,0,.6);color:#fff;font:inherit;font-size:.9rem;cursor:pointer}.mapx.on{background:#a3262a;border-color:#e05a5e}
+.mapdraw{position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:none}
+.mapinner.drawing .mpin{pointer-events:none}
+.mtools{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.mcolor{position:relative;display:inline-flex;align-items:center;justify-content:center;background:var(--panel2);overflow:hidden;font-size:.9rem}.mcolor input{position:absolute;inset:0;opacity:0;width:100%;height:100%;cursor:pointer}
+.msz{display:inline-flex;gap:4px;margin-left:auto}.mszb{width:34px;height:34px;border-radius:8px;border:1px solid var(--line);background:var(--panel2);display:flex;align-items:center;justify-content:center;cursor:pointer;padding:0}.mszb.on{border-color:var(--gold);outline:2px solid var(--gold)}.mszb i{display:block;border-radius:50%}

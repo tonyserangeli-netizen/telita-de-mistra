@@ -28,6 +28,7 @@ function renderMaps(){
   </div>`;
   mapGestures();
 }
+function mapZ(z){const v=document.getElementById("mapview"),img=document.querySelector("#mapinner img");if(!v||!img||!img.naturalWidth)return clamp(z,.3,8);const r=v.getBoundingClientRect();const fit=Math.min(r.width/img.naturalWidth,r.height/img.naturalHeight);const dpr=window.devicePixelRatio||1;return clamp(z,fit*.8,Math.max(2/dpr,fit*3))}
 function mapGestures(){
   const v=document.getElementById("mapview"),inner=document.getElementById("mapinner");if(!v||!inner)return;const M=ui.map;
   const pts=new Map();let start=null,moved=false;
@@ -38,11 +39,11 @@ function mapGestures(){
     if(pts.size===2){const[a,b]=[...pts.values()];start={d:Math.hypot(a.x-b.x,a.y-b.y),z:M.z,cx:(a.x+b.x)/2,cy:(a.y+b.y)/2,mx:M.x,my:M.y}}};
   v.onpointermove=e=>{if(!pts.has(e.pointerId)||!start)return;pts.set(e.pointerId,{x:e.clientX,y:e.clientY});
     if(pts.size===1&&start.mx!=null&&start.d==null){const dx=e.clientX-start.x,dy=e.clientY-start.y;if(Math.abs(dx)+Math.abs(dy)>6)moved=true;M.x=start.mx+dx;M.y=start.my+dy;apply()}
-    else if(pts.size===2&&start.d){const[a,b]=[...pts.values()];const d=Math.hypot(a.x-b.x,a.y-b.y);const nz=clamp(start.z*d/start.d,.3,8);const r=v.getBoundingClientRect();const cx=start.cx-r.left,cy=start.cy-r.top;
+    else if(pts.size===2&&start.d){const[a,b]=[...pts.values()];const d=Math.hypot(a.x-b.x,a.y-b.y);const nz=mapZ(start.z*d/start.d);const r=v.getBoundingClientRect();const cx=start.cx-r.left,cy=start.cy-r.top;
       M.x=cx-(cx-start.mx)*(nz/start.z);M.y=cy-(cy-start.my)*(nz/start.z);M.z=nz;moved=true;apply()}};
   v.onpointerup=v.onpointercancel=e=>{const wasTap=pts.size===1&&!moved&&start&&start.d==null;pts.delete(e.pointerId);if(pts.size===0){const t=start&&start.t;start=null;
       if(wasTap&&e.type==="pointerup"){if(t&&t.closest(".mpin"))return;if(ui.map.edit)addPin(e)}}else start=null};
-  v.onwheel=e=>{e.preventDefault();const r=v.getBoundingClientRect(),cx=e.clientX-r.left,cy=e.clientY-r.top,nz=clamp(M.z*(e.deltaY<0?1.15:1/1.15),.3,8);M.x=cx-(cx-M.x)*(nz/M.z);M.y=cy-(cy-M.y)*(nz/M.z);M.z=nz;apply()};
+  v.onwheel=e=>{e.preventDefault();const r=v.getBoundingClientRect(),cx=e.clientX-r.left,cy=e.clientY-r.top,nz=mapZ(M.z*(e.deltaY<0?1.15:1/1.15));M.x=cx-(cx-M.x)*(nz/M.z);M.y=cy-(cy-M.y)*(nz/M.z);M.z=nz;apply()};
 }
 function mapFit(){const v=document.getElementById("mapview"),img=document.querySelector("#mapinner img");if(!v||!img||!img.naturalWidth)return;ui.map.nw=img.naturalWidth;const r=v.getBoundingClientRect();const z=Math.min(r.width/img.naturalWidth,r.height/img.naturalHeight);
   ui.map.z=z;ui.map.x=(r.width-img.naturalWidth*z)/2;ui.map.y=(r.height-img.naturalHeight*z)/2;renderMaps()}
@@ -55,7 +56,7 @@ function addPin(e){const img=document.querySelector("#mapinner img");if(!img)ret
     if(k==="back"){M.id=null;M.sel=null;ui.mdel=false;renderMaps();return}
     if(k==="ann"){M.ann=!M.ann;if(!M.ann)M.sel=null;renderMaps();return}
     if(k==="edit"){M.edit=!M.edit;ui.mdel=false;renderMaps();return}
-    if(k==="zin"||k==="zout"){const v=document.getElementById("mapview").getBoundingClientRect(),cx=v.width/2,cy=v.height/2,nz=clamp(M.z*(k==="zin"?1.4:1/1.4),.3,8);M.x=cx-(cx-M.x)*(nz/M.z);M.y=cy-(cy-M.y)*(nz/M.z);M.z=nz;renderMaps();return}
+    if(k==="zin"||k==="zout"){const v=document.getElementById("mapview").getBoundingClientRect(),cx=v.width/2,cy=v.height/2,nz=mapZ(M.z*(k==="zin"?1.4:1/1.4));M.x=cx-(cx-M.x)*(nz/M.z);M.y=cy-(cy-M.y)*(nz/M.z);M.z=nz;renderMaps();return}
     if(k==="zfit"){mapFit();return}
     if(k==="pin"){M.sel=M.sel===b.dataset.id?null:b.dataset.id;renderMaps();return}
     if(k==="punsel"){M.sel=null;renderMaps();return}
@@ -67,7 +68,7 @@ function addPin(e){const img=document.querySelector("#mapinner img");if(!img)ret
     if(t.matches("[data-mapn]")){cur.n=t.value;clearTimeout(t._t);t._t=setTimeout(saveMaps,400)}
     if(t.dataset.pinf){const p=(cur.pins||[]).find(x=>x.id===ui.map.sel);if(p){p[t.dataset.pinf]=t.value;const lab=document.querySelector(`.mpin[data-id="${p.id}"] span`);if(lab&&t.dataset.pinf==="t")lab.textContent=t.value;clearTimeout(t._t);t._t=setTimeout(saveMaps,400)}}});
   document.addEventListener("change",async e=>{const t=e.target;if(!t.matches("[data-mapup]"))return;const f=t.files&&t.files[0];if(!f)return;
-    try{toast(L("Cargando mapa…"));const key=await fileToKey(f,2600,false,true);await loadMaps();
+    try{toast(L("Cargando mapa…"));const key=await fileToKey(f,3600,false,true);await loadMaps();
       if(t.dataset.mapup){const cur=MAPS.find(x=>x.id===t.dataset.mapup);if(cur.img)dropImg(cur.img);cur.img=key}
       else{const m={id:uid(),n:(f.name||L("Mapa")).replace(/\.[^.]+$/,"").slice(0,40)||L("Mapa"),img:key,pins:[]};MAPS.push(m);ui.map.id=m.id;ui.map.edit=true}
       await saveMaps();renderMaps();const im=document.querySelector("#mapinner img");if(im){if(im.complete)mapFit();else im.onload=mapFit}}

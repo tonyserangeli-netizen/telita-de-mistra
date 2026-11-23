@@ -243,7 +243,7 @@ async function uploadPose(pid,file){
   if(!file)return;
   try{
     const url=await new Promise((res,rej)=>{const fr=new FileReader();fr.onload=()=>res(fr.result);fr.onerror=rej;fr.readAsDataURL(file)});
-    const im=await loadImage(url);const s=Math.min(1,1000/Math.max(im.naturalWidth,im.naturalHeight));
+    const im=await loadImage(url);const s=Math.min(1,1600/Math.max(im.naturalWidth,im.naturalHeight));
     const w=Math.round(im.naturalWidth*s),h=Math.round(im.naturalHeight*s);
     const cv=document.createElement("canvas");cv.width=w;cv.height=h;const ctx=cv.getContext("2d");ctx.drawImage(im,0,0,w,h);
     const p=C.poses.find(x=>x.id===pid);if(p.fondo!==false)removeWhite(ctx,w,h);

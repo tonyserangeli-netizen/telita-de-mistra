@@ -10,7 +10,7 @@ function renderMaps(){
   const M=ui.map,mm=document.getElementById("modal");if(!M)return;
   const cur=M.id&&MAPS.find(x=>x.id===M.id);
   if(!cur){mm.innerHTML=`<div class="mapw" data-mapm><div class="mbar2"><h2 style="margin:0;font-family:var(--display)">🗺 ${L("Mapas")}</h2><button class="btn small" data-mp="close">✕ ${L("Cerrar")}</button></div>
-    <div class="maplist">${MAPS.map(m=>{const s=getImg(m.img);return`<button class="mapcard" data-mp="open" data-id="${m.id}">${s?`<img src="${s}" alt="">`:""}<span>${esc(m.n)}</span><small>${L("{0} anotaciones",(m.pins||[]).length)}</small></button>`}).join("")}
+    <div class="maplist">${MAPS.map(m=>{const s=getImg(m.img);return`<div class="mapcw"><button class="mapcard" data-mp="open" data-id="${m.id}">${s?`<img src="${s}" alt="">`:""}<span>${esc(m.n)}</span><small>${L("{0} anotaciones",(m.pins||[]).length)}</small></button><button class="mapx ${ui.mdelL===m.id?"on":""}" data-mp="ldel" data-id="${m.id}" aria-label="${L("Borrar mapa")}">${ui.mdelL===m.id?L("¿Borrar?"):"🗑"}</button></div>`}).join("")}
       <label class="mapcard add">＋<span>${L("Subir mapa")}</span><input type="file" accept="image/*" data-mapup hidden></label></div>
     <p class="hint">${L("Los mapas se guardan en este celular y los ven todos los personajes. Entran en \"Exportar todo\".")}</p></div>`;return}
   const s=getImg(cur.img),sel=M.sel&&(cur.pins||[]).find(p=>p.id===M.sel);
@@ -51,6 +51,8 @@ function addPin(e){const img=document.querySelector("#mapinner img");if(!img)ret
   const cur=MAPS.find(m=>m.id===ui.map.id);cur.pins=cur.pins||[];const p={id:uid(),x,y,t:"",d:"",c:PINC[0]};cur.pins.push(p);ui.map.sel=p.id;saveMaps();renderMaps();setTimeout(()=>{const i=document.querySelector('[data-pinf="t"]');if(i)i.focus()},50)}
 (function(){
   document.addEventListener("click",e=>{const b=e.target.closest("[data-mp]");if(!b||!ui.map)return;e.preventDefault();e.stopPropagation();const k=b.dataset.mp,M=ui.map,cur=M.id&&MAPS.find(x=>x.id===M.id);
+    if(k==="ldel"){const id=b.dataset.id;if(ui.mdelL!==id){ui.mdelL=id;renderMaps();return}ui.mdelL=null;const m=MAPS.find(x=>x.id===id);if(m){MAPS=MAPS.filter(x=>x!==m);if(m.img)dropImg(m.img);saveMaps();toast(L("Mapa borrado"))}renderMaps();return}
+    if(k==="open")ui.mdelL=null;
     if(k==="close"){ui.map=null;document.getElementById("modal").innerHTML="";return}
     if(k==="open"){M.id=b.dataset.id;M.nw=0;M.sel=null;M.edit=false;M.z=1;M.x=0;M.y=0;renderMaps();const im=document.querySelector("#mapinner img");if(im){if(im.complete)mapFit();else im.onload=mapFit}return}
     if(k==="back"){M.id=null;M.sel=null;ui.mdel=false;renderMaps();return}

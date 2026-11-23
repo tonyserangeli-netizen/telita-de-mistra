@@ -723,3 +723,6 @@ body.hshake .wrap{animation:shake .12s 4}
 .cadd{width:auto;font-size:.8rem;padding:3px 6px}
 .tchap{display:flex;gap:10px;align-items:center;width:100%;text-align:left;background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:10px;margin:4px 0;color:var(--bone);font:inherit;cursor:pointer}
 .tchap small{display:block;color:var(--muted)}.tck{width:28px;height:28px;border-radius:50%;display:grid;place-items:center;background:var(--gold);color:#111;flex:none;font-weight:700}
+
+.mapcw{position:relative;display:flex}.mapcw .mapcard{flex:1}
+.mapx{position:absolute;top:12px;right:12px;min-width:36px;height:36px;padding:0 8px;border-radius:18px;border:1px solid var(--line);background:rgba(0,0,0,.6);color:#fff;font:inherit;font-size:.9rem;cursor:pointer}.mapx.on{background:#a3262a;border-color:#e05a5e}

@@ -1,0 +1,1257 @@
+(copia)|(copy)|(cópia)
+Abierto|Open|Aberto
+Abreviatura|Abbreviation|Abreviação
+Abrir|Open|Abrir
+Activo|Active|Ativo
+Actual|Current|Atual
+Adjuntá una imagen actual del personaje junto con el texto.|Attach a current image of the character along with the text.|Anexe uma imagem atual do personagem junto com o texto.
+Agregar|Add|Adicionar
+Agregar a {0}|Add to {0}|Adicionar a {0}
+Agregar cuadro de texto|Add text box|Adicionar caixa de texto
+Agregar dato (cordura, resistencias…)|Add stat (sanity, resistances…)|Adicionar dado (sanidade, resistências…)
+Agregar dentro|Add inside|Adicionar dentro
+Agregar habilidad|Add skill|Adicionar perícia
+Agregar parte (brazo extra, cola, alas…)|Add part (extra arm, tail, wings…)|Adicionar parte (braço extra, cauda, asas…)
+Agregar parte dentro|Add part inside|Adicionar parte dentro
+Agregar punto de desbloqueo|Add unlock point|Adicionar ponto de desbloqueio
+Agregar salvación|Add saving throw|Adicionar salvaguarda
+Al golpear suma a|On hit, adds to|Ao acertar, soma em
+Apagada|Off|Desligada
+Apagar|Turn off|Desligar
+Armas|Weapons|Armas
+Armas y ataques|Weapons & attacks|Armas e ataques
+Barras|Bars|Barras
+Bono de ataque|Attack bonus|Bônus de ataque
+Bono extra|Extra bonus|Bônus extra
+Borrado|Deleted|Apagado
+Borrador|Eraser|Borracha
+Borrar|Delete|Apagar
+Borrar grupo|Delete group|Apagar grupo
+Borrar lista|Delete list|Apagar lista
+Borrar medidor|Delete meter|Apagar medidor
+Borrar zona|Delete zone|Apagar zona
+Buscar|Search|Buscar
+Buscar en todas las notas (ej.: Goblin celeste)|Search all notes (e.g.: Sky goblin)|Buscar em todas as notas (ex.: Goblin celeste)
+CA|AC|CA
+Cada X horas|Every X hours|A cada X horas
+Cada X turnos|Every X turns|A cada X turnos
+Cada cuántas horas|Every how many hours|A cada quantas horas
+Cada cuántos turnos|Every how many turns|A cada quantos turnos
+Cambiar imagen|Change image|Trocar imagem
+Cancelar|Cancel|Cancelar
+Cantidad|Amount|Quantidade
+Características|Abilities|Atributos
+Cerrar|Close|Fechar
+Clase de armadura (CA)|Armor class (AC)|Classe de armadura (CA)
+Clase, raza…|Class, race…|Classe, raça…
+Color|Color|Cor
+Combate|Combat|Combate
+Combate terminado|Combat ended|Combate encerrado
+Competencia|Proficiency|Proficiência
+Contadores|Counters|Contadores
+Controlada por medidor|Driven by a meter|Controlada por medidor
+Copia de seguridad|Backup|Cópia de segurança
+Copia descargada|Backup downloaded|Cópia baixada
+Copiar texto|Copy text|Copiar texto
+Crear|Create|Criar
+Cuanto más avanza el medidor, más fuerte el color.|The further the meter goes, the stronger the color.|Quanto mais o medidor avança, mais forte a cor.
+Cuerpo|Body|Corpo
+Curar|Heal|Curar
+Cuánto gasta|How much it spends|Quanto gasta
+Dados de golpe|Hit dice|Dados de vida
+Daño|Damage|Dano
+De combate|Combat pose|De combate
+Degradado con segundo color|Gradient with a second color|Degradê com segunda cor
+Descanso|Rest|Descanso
+Descanso corto|Short rest|Descanso curto
+Descanso largo|Long rest|Descanso longo
+Descanso largo: todo recargado|Long rest: everything recharged|Descanso longo: tudo recarregado
+Descripción|Description|Descrição
+Deshacer|Undo|Desfazer
+Deshecho|Undone|Desfeito
+Dos lados (negativo ↔ positivo)|Two sides (negative ↔ positive)|Dois lados (negativo ↔ positivo)
+Duplicar|Duplicate|Duplicar
+Dura (turnos, 0 = nada)|Lasts (turns, 0 = none)|Dura (turnos, 0 = nada)
+Dura (turnos, 0 = sin límite)|Lasts (turns, 0 = no limit)|Dura (turnos, 0 = sem limite)
+Dónde está|Where it is|Onde está
+Editar|Edit|Editar
+Efectos activos|Active effects|Efeitos ativos
+Empieza con una plantilla básica: cuerpo completo, estadísticas y habilidades. Todo se puede cambiar.|Starts from a basic template: full body, abilities and skills. Everything can be changed.|Começa com um modelo básico: corpo completo, atributos e perícias. Tudo pode ser mudado.
+Encendida|On|Ligada
+Enciende la zona|Lights up zone|Acende a zona
+Entrar en combate|Enter combat|Entrar em combate
+Entró en combate|Entered combat|Entrou em combate
+Escalas propias: luz y sombra, tamaño de una guadaña, corrupción… Pueden cambiar el color de una zona de la imagen.|Your own scales: light and shadow, the size of a scythe, corruption… They can change the color of an image zone.|Escalas próprias: luz e sombra, tamanho de uma foice, corrupção… Podem mudar a cor de uma zona da imagem.
+Escribí acá…|Write here…|Escreva aqui…
+Ese archivo no es una copia de Telita de Mistra|That file is not a Telita de Mistra backup|Esse arquivo não é uma cópia do Telita de Mistra
+Espacios de conjuro, usos de maniobras, puntos de ki… lo que se gasta y se recarga.|Spell slots, maneuver uses, ki points… whatever gets spent and recharged.|Espaços de magia, usos de manobras, pontos de ki… o que se gasta e recarrega.
+Estados|Conditions|Condições
+Exportar|Export|Exportar
+Exportar este personaje|Export this character|Exportar este personagem
+Exportar todo|Export everything|Exportar tudo
+Fallo|Failure|Falha
+Fallos|Failures|Falhas
+Gasta de|Spends from|Gasta de
+Golpe con {0}|Hit with {0}|Golpe com {0}
+Golpeé|I hit|Acertei
+Golpeó con {0}|Hit with {0}|Acertou com {0}
+Gris (inconsciente)|Gray (unconscious)|Cinza (inconsciente)
+Guardar|Save|Salvar
+Guardá una copia por si se borra el celular, o para pasar un personaje a otro teléfono.|Save a copy in case the phone gets wiped, or to move a character to another phone.|Salve uma cópia caso o celular seja apagado, ou para passar um personagem para outro telefone.
+Habilidades|Skills|Perícias
+Hoja|Sheet|Ficha
+Hoja de personaje|Character sheet|Ficha de personagem
+Idioma|Language|Idioma
+Imagen cambiada. Revisá las zonas pintadas de esta pose.|Image changed. Check the painted zones for this pose.|Imagem trocada. Revise as zonas pintadas desta pose.
+Imagen cargada|Image uploaded|Imagem carregada
+Importar archivo|Import file|Importar arquivo
+Inactivo|Inactive|Inativo
+Iniciativa|Initiative|Iniciativa
+Inicio|Home|Início
+Inspiración|Inspiration|Inspiração
+Inspiración ganada|Inspiration gained|Inspiração ganha
+Inspiración usada|Inspiration used|Inspiração usada
+Instalar|Install|Instalar
+Instalar Telita de Mistra|Install Telita de Mistra|Instalar Telita de Mistra
+Intensidad|Intensity|Intensidade
+Las notas son compartidas por todos los personajes de este dispositivo.|Notes are shared by all characters on this device.|As notas são compartilhadas por todos os personagens deste dispositivo.
+Late|Pulses|Pulsa
+Limpiar|Clear|Limpar
+Listo|Done|Pronto
+Los datos se guardan en este dispositivo.|Data is saved on this device.|Os dados ficam salvos neste dispositivo.
+Marcas, cargas, almas… se suman al golpear con el arma vinculada.|Marks, charges, souls… they add up when you hit with the linked weapon.|Marcas, cargas, almas… somam ao acertar com a arma vinculada.
+Medidores|Meters|Medidores
+Menú|Menu|Menu
+Mostrar|Show|Mostrar
+Máx.|Max|Máx.
+Máximo|Maximum|Máximo
+Mínimo|Minimum|Mínimo
+Nada|Nothing|Nada
+Nada encontrado para “{0}”.|Nothing found for “{0}”.|Nada encontrado para “{0}”.
+Negativo|Negative|Negativo
+Ninguna|None|Nenhuma
+Nivel|Level|Nível
+No (se prende y apaga)|No (turns on and off)|Não (liga e desliga)
+No alcanza: {0}|Not enough: {0}|Não é suficiente: {0}
+No quedan usos de {0}|No uses left of {0}|Não restam usos de {0}
+No se pudo leer la imagen|Couldn't read the image|Não foi possível ler a imagem
+Nombre|Name|Nome
+Nombre (ej.: Tamaño, Hambre, Luz y sombra)|Name (e.g.: Size, Hunger, Light and shadow)|Nome (ex.: Tamanho, Fome, Luz e sombra)
+Nombre del lado derecho|Right side name|Nome do lado direito
+Nombre del lado izquierdo|Left side name|Nome do lado esquerdo
+Nombre · característica · bono extra.|Name · ability · extra bonus.|Nome · atributo · bônus extra.
+Notas|Notes|Notas
+Notas de esta parte: tatuajes, heridas, marcas…|Notes for this part: tattoos, wounds, marks…|Notas desta parte: tatuagens, feridas, marcas…
+Nueva|New|Nova
+Nueva arma|New weapon|Nova arma
+Nueva barra|New bar|Nova barra
+Nueva característica|New ability|Novo atributo
+Nueva carpeta o nota|New folder or note|Nova pasta ou nota
+Nueva habilidad|New skill|Nova perícia
+Nueva lista|New list|Nova lista
+Nueva lista (inventario, tatuajes dimensionales…)|New list (inventory, dimensional tattoos…)|Nova lista (inventário, tatuagens dimensionais…)
+Nueva nota|New note|Nova nota
+Nueva parte|New part|Nova parte
+Nueva pose|New pose|Nova pose
+Nueva pose (cantando, durmiendo, transformado…)|New pose (singing, sleeping, transformed…)|Nova pose (cantando, dormindo, transformado…)
+Nueva salvación|New saving throw|Nova salvaguarda
+Nueva zona|New zone|Nova zona
+Nueva zona de brillo|New glow zone|Nova zona de brilho
+Nuevo contador|New counter|Novo contador
+Nuevo cuadro|New box|Nova caixa
+Nuevo dato|New stat|Novo dado
+Nuevo estado|New condition|Nova condição
+Nuevo grupo|New group|Novo grupo
+Nuevo grupo (ej.: Magia malacálica, Canciones, Dotes)|New group (e.g.: Malacalic magic, Songs, Feats)|Novo grupo (ex.: Magia malacálica, Canções, Talentos)
+Nuevo medidor|New meter|Novo medidor
+Nuevo personaje|New character|Novo personagem
+Nuevo poder|New power|Novo poder
+Nuevo recurso|New resource|Novo recurso
+Nuevo ítem mágico|New magic item|Novo item mágico
+Oscurecido|Darkened|Escurecido
+Otro|Other|Outro
+PV|HP|PV
+Para instalar: tocá Compartir ↑ y después “Agregar a inicio”|To install: tap Share ↑ and then “Add to Home Screen”|Para instalar: toque em Compartilhar ↑ e depois “Adicionar à Tela de Início”
+Parte del cuerpo|Body part|Parte do corpo
+Partes del cuerpo|Body parts|Partes do corpo
+Paso de los botones|Button step|Passo dos botões
+Percepción pasiva|Passive perception|Percepção passiva
+Personaje|Character|Personagem
+Personaje creado|Character created|Personagem criado
+Personajes|Characters|Personagens
+Pertenece a (arma, ítem…)|Belongs to (weapon, item…)|Pertence a (arma, item…)
+Pincel|Brush|Pincel
+Pintar la zona en cada pose:|Paint the zone on each pose:|Pintar a zona em cada pose:
+Pintá con el dedo la zona que tiene que brillar. El color de la pintura es solo de guía.|Paint with your finger the zone that should glow. The paint color is just a guide.|Pinte com o dedo a zona que deve brilhar. A cor da pintura é só um guia.
+Poderes|Powers|Poderes
+Poses|Poses|Poses
+Positivo|Positive|Positivo
+Quitar fondo blanco|Remove white background|Remover fundo branco
+Qué es|What it is|O que é
+Qué hace|What it does|O que faz
+Qué se desbloquea|What unlocks|O que desbloqueia
+Recibió {0} de daño|Took {0} damage|Recebeu {0} de dano
+Recuperar un uso|Recover one use|Recuperar um uso
+Recursos|Resources|Recursos
+Reiniciar|Reset|Reiniciar
+Resplandor|Glow|Brilho
+Restar|Subtract|Subtrair
+Sacar|Take out|Retirar
+Salvaciones contra muerte|Death saves|Salvaguardas contra a morte
+Se curó {0}|Healed {0}|Curou {0}
+Se estabilizó|Stabilized|Estabilizou
+Se recarga|Recharges|Recarrega
+Se recargan|Recharge|Recarregam
+Se tambalea|Staggers|Cambaleia
+Secciones|Sections|Seções
+Seleccioná el texto y copialo a mano|Select the text and copy it manually|Selecione o texto e copie manualmente
+Sello (apaga brillos)|Seal (dims glows)|Selo (apaga brilhos)
+Siguiente turno|Next turn|Próximo turno
+Sin armas todavía.|No weapons yet.|Ainda sem armas.
+Sin efecto en la imagen|No effect on image|Sem efeito na imagem
+Sin imagen|No image|Sem imagem
+Sin imagen todavía.|No image yet.|Ainda sem imagem.
+Sin notas todavía.|No notes yet.|Ainda sem notas.
+Sin recarga|No recharge|Sem recarga
+Sin recursos todavía.|No resources yet.|Ainda sem recursos.
+Sin zonas todavía.|No zones yet.|Ainda sem zonas.
+Sin ítems mágicos todavía.|No magic items yet.|Ainda sem itens mágicos.
+Solo sube (0 → máximo)|Goes up only (0 → max)|Só sobe (0 → máximo)
+Subila en Cuerpo → Poses.|Upload it in Body → Poses.|Envie em Corpo → Poses.
+Subir imagen|Upload image|Enviar imagem
+Subí una imagen en Poses para poder pintar.|Upload an image in Poses to paint.|Envie uma imagem em Poses para poder pintar.
+Suma a: {0}|Adds to: {0}|Soma em: {0}
+Sumar|Add|Somar
+Tamaño|Size|Tamanho
+Tatuajes, hielo, fuego, un halo… Pintá con el dedo sobre cada pose la zona que tiene que brillar.|Tattoos, ice, fire, a halo… Paint with your finger on each pose the zone that should glow.|Tatuagens, gelo, fogo, um halo… Pinte com o dedo em cada pose a zona que deve brilhar.
+Terminar|End|Encerrar
+Terminar combate|End combat|Encerrar combate
+Terminó el combate|Combat ended|Combate encerrado
+Texto copiado|Text copied|Texto copiado
+Texto del botón de acción|Action button text|Texto do botão de ação
+Texto para pedir la imagen a Gemini u otra IA|Text to request the image from Gemini or another AI|Texto para pedir a imagem ao Gemini ou outra IA
+Tipo|Type|Tipo
+Tiradas de salvación|Saving throws|Salvaguardas
+Tocá el círculo: nada → competente → experto.|Tap the circle: none → proficient → expert.|Toque no círculo: nada → proficiente → especialista.
+Tocá los tres puntitos ⋮ y después “Instalar aplicación”|Tap the three dots ⋮ and then “Install app”|Toque nos três pontinhos ⋮ e depois “Instalar app”
+Tocá una parte para escribir notas o agregar partes dentro. Podés sumar extremidades extra.|Tap a part to write notes or add parts inside. You can add extra limbs.|Toque numa parte para escrever notas ou adicionar partes dentro. Você pode somar membros extras.
+Turno|Turn|Turno
+Turno anterior|Previous turn|Turno anterior
+Turno {0}|Turn {0}|Turno {0}
+Turno {0} · terminó: {1}|Turn {0} · ended: {1}|Turno {0} · terminou: {1}
+Título|Title|Título
+Una imagen por pose. Las marcadas como “de combate” aparecen al entrar en combate.|One image per pose. Poses marked as “combat” appear when entering combat.|Uma imagem por pose. As marcadas como “de combate” aparecem ao entrar em combate.
+Unidad|Unit|Unidade
+Usar|Use|Usar
+Usar todo|Use all|Usar tudo
+Usos (0 = sin contador)|Uses (0 = no counter)|Usos (0 = sem contador)
+Usos propios (0 = sin contador)|Own uses (0 = no counter)|Usos próprios (0 = sem contador)
+Usá la imagen adjunta como referencia de mi personaje{0}. Generá una imagen nueva del MISMO personaje {1}. Mantené exactamente la misma cara, cuerpo, ropa, tatuajes, colores y estilo de ilustración. Cuerpo completo, de la cabeza a los pies, centrado y sin cortar ninguna parte. Fondo blanco liso, sin sombras en el piso, sin texto ni marcos. Formato vertical 2:3.|Use the attached image as a reference of my character{0}. Generate a new image of the SAME character {1}. Keep exactly the same face, body, clothes, tattoos, colors and illustration style. Full body, head to feet, centered, nothing cut off. Plain white background, no floor shadows, no text or frames. Vertical 2:3 format.|Use a imagem anexada como referência do meu personagem{0}. Gere uma nova imagem do MESMO personagem {1}. Mantenha exatamente o mesmo rosto, corpo, roupa, tatuagens, cores e estilo de ilustração. Corpo inteiro, da cabeça aos pés, centralizado e sem cortar nenhuma parte. Fundo branco liso, sem sombras no chão, sem texto nem molduras. Formato vertical 2:3.
+Usó {0}|Used {0}|Usou {0}
+Vacío.|Empty.|Vazio.
+Vacío. Tocá “Editar”.|Empty. Tap “Edit”.|Vazio. Toque em “Editar”.
+Velocidad|Speed|Deslocamento
+Volver|Back|Voltar
+Zona borrada|Zone deleted|Zona apagada
+Zona guardada|Zone saved|Zona salva
+Zonas que brillan|Glowing zones|Zonas que brilham
+activo|active|ativo
+auto|auto|auto
+descanso corto|short rest|descanso curto
+descanso largo|long rest|descanso longo
+faltan {0}|{0} left|faltam {0}
+inactivo|inactive|inativo
+quedan {0}|{0} left|restam {0}
+se recarga cada {0} h|recharges every {0} h|recarrega a cada {0} h
+se recarga cada {0} turnos|recharges every {0} turns|recarrega a cada {0} turnos
+se recarga con {0}|recharges on {0}|recarrega com {0}
+sin límite|no limit|sem limite
+terminó: {0}|ended: {0}|terminou: {0}
+turno|turn|turno
+turnos|turns|turnos
+{0} personaje(s) importado(s)|{0} character(s) imported|{0} personagem(ns) importado(s)
+{0} resultados|{0} results|{0} resultados
+¡En combate!|In combat!|Em combate!
+¡Estabilizado!|Stabilized!|Estabilizado!
+¿Qué está haciendo el personaje?|What is the character doing?|O que o personagem está fazendo?
+¿Seguro? Tocá otra vez|Sure? Tap again|Certeza? Toque de novo
+Éxito|Success|Sucesso
+Éxitos|Successes|Sucessos
+Ítems mágicos|Magic items|Itens mágicos
+Últimas acciones|Recent actions|Últimas ações
+durmiendo|sleeping|dormindo
+Abrir la ficha|Open the sheet|Abrir a ficha
+Anterior|Back|Anterior
+Armas y objetos|Weapons & items|Armas e itens
+Armas → Medidores, contadores y barras.|Weapons → Meters, counters and bars.|Armas → Medidores, contadores e barras.
+Armá grupos con los poderes del personaje y escribí qué hace cada uno. Los detalles (usos, duración, qué gastan) se ajustan después con Editar.|Make groups with the character's powers and write what each one does. Details (uses, duration, what they spend) can be adjusted later with Edit.|Monte grupos com os poderes do personagem e escreva o que cada um faz. Os detalhes (usos, duração, o que gastam) se ajustam depois com Editar.
+Asistente de creación|Creation wizard|Assistente de criação
+Clase, raza, descripción corta|Class, race, short description|Classe, raça, descrição curta
+Completá lo que sepas. Todo se puede cambiar después.|Fill in what you know. Everything can be changed later.|Preencha o que souber. Tudo pode ser mudado depois.
+Crear mi personaje|Create my character|Criar meu personagem
+Cuerpo → Partes del cuerpo: notas por parte y extremidades extra.|Body → Body parts: notes per part and extra limbs.|Corpo → Partes do corpo: notas por parte e membros extras.
+Cuerpo → Zonas que brillan: pintá tatuajes, hielo o fuego sobre cada pose.|Body → Glowing zones: paint tattoos, ice or fire on each pose.|Corpo → Zonas que brilham: pinte tatuagens, gelo ou fogo em cada pose.
+Datos básicos|Basics|Dados básicos
+Ej.: Minotauro bárbaro · casi 4 metros|E.g.: Minotaur barbarian · almost 4 meters|Ex.: Minotauro bárbaro · quase 4 metros
+Empezar|Start|Começar
+Escribí el valor de cada característica. Podés renombrarlas, borrarlas o agregar nuevas.|Write the value of each ability. You can rename, delete or add new ones.|Escreva o valor de cada atributo. Você pode renomear, apagar ou adicionar novos.
+Historia o rasgos especiales|Backstory or special traits|História ou traços especiais
+Hoja: habilidades, salvaciones y datos extra.|Sheet: skills, saving throws and extra stats.|Ficha: perícias, salvaguardas e dados extras.
+Imágenes|Images|Imagens
+Las habilidades y salvaciones se marcan después en la pestaña Hoja.|Skills and saving throws are marked later in the Sheet tab.|Perícias e salvaguardas se marcam depois na aba Ficha.
+Las zonas que brillan (tatuajes, hielo, fuego…) se pintan después en Cuerpo → Zonas que brillan.|Glowing zones (tattoos, ice, fire…) are painted later in Body → Glowing zones.|As zonas que brilham (tatuagens, gelo, fogo…) se pintam depois em Corpo → Zonas que brilham.
+Lo que podés hacer ahora en la ficha:|What you can do now in the sheet:|O que você pode fazer agora na ficha:
+Nombre de la pose|Pose name|Nome da pose
+Quién es, qué le pasó, qué lo hace especial…|Who they are, what happened to them, what makes them special…|Quem é, o que aconteceu, o que o torna especial…
+Saltar asistente|Skip wizard|Pular assistente
+Siguiente|Next|Próximo
+Subí una imagen para cada pose. Las de combate aparecen solas al entrar en combate. Podés agregar las poses que quieras.|Upload an image for each pose. Combat poses show up automatically when entering combat. You can add as many poses as you want.|Envie uma imagem para cada pose. As de combate aparecem sozinhas ao entrar em combate. Você pode adicionar quantas poses quiser.
+Te guía paso a paso: datos, imágenes, características, poderes y armas. Todo se puede cambiar después.|Guides you step by step: basics, images, abilities, powers and weapons. Everything can be changed later.|Guia você passo a passo: dados, imagens, atributos, poderes e armas. Tudo pode ser mudado depois.
+Tocá Editar en cualquier pestaña para cambiar o borrar lo que quieras.|Tap Edit on any tab to change or delete anything.|Toque em Editar em qualquer aba para mudar ou apagar o que quiser.
+Vida máxima (PV)|Max hit points (HP)|Pontos de vida máximos (PV)
+¡{0} está listo!|{0} is ready!|{0} está pronto!
+¿No tenés las imágenes? Pedíselas a Gemini|Don't have the images? Ask Gemini|Não tem as imagens? Peça ao Gemini
+Usá la imagen adjunta como referencia de mi personaje{0}. Generá una imagen nueva del MISMO personaje {1}.|Use the attached image as a reference of my character{0}. Generate a new image of the SAME character {1}.|Use a imagem anexada como referência do meu personagem{0}. Gere uma nova imagem do MESMO personagem {1}.
+Mantené exactamente la misma cara, cuerpo, ropa, tatuajes, colores y estilo de ilustración.|Keep exactly the same face, body, clothes, tattoos, colors and illustration style.|Mantenha exatamente o mesmo rosto, corpo, roupa, tatuagens, cores e estilo de ilustração.
+Que {0} en {1} brille en color {2}.|Make the {0} on the {1} glow {2}.|Faça {0} em {1} brilhar na cor {2}.
+Que {0} brille en color {1}.|Make the {0} glow {1}.|Faça {0} brilhar na cor {1}.
+Que se vea claramente {0} en {1}, bien definido y sin brillo propio (el brillo se agrega después).|Clearly show the {0} on the {1}, well defined and without its own glow (the glow is added later).|Mostre claramente {0} em {1}, bem definido e sem brilho próprio (o brilho é adicionado depois).
+Que se vea claramente {0}, bien definido y sin brillo propio (el brillo se agrega después).|Clearly show the {0}, well defined and without its own glow (the glow is added later).|Mostre claramente {0}, bem definido e sem brilho próprio (o brilho é adicionado depois).
+Encuadre: cuerpo completo de la cabeza a los pies, centrado, ocupando casi toda la altura de la imagen, con el mismo tamaño y posición que la imagen de referencia, sin cortar ninguna parte.|Framing: full body from head to feet, centered, filling almost the whole height of the image, same size and position as the reference image, nothing cut off.|Enquadramento: corpo inteiro da cabeça aos pés, centralizado, ocupando quase toda a altura da imagem, com o mesmo tamanho e posição da imagem de referência, sem cortar nenhuma parte.
+Fondo blanco liso, sin sombras en el piso, sin texto ni marcos. Formato vertical 2:3.|Plain white background, no floor shadows, no text or frames. Vertical 2:3 format.|Fundo branco liso, sem sombras no chão, sem texto nem molduras. Formato vertical 2:3.
+Arma el pedido para que todas las imágenes salgan con el mismo encuadre y encajen con la app.|Builds the request so all images come out with the same framing and fit the app.|Monta o pedido para que todas as imagens saiam com o mesmo enquadramento e encaixem no app.
+¿Qué está haciendo el personaje? (la pose)|What is the character doing? (the pose)|O que o personagem está fazendo? (a pose)
+Ej.: en posición de ataque con la lanza|E.g.: in attack stance with the spear|Ex.: em posição de ataque com a lança
+Zonas que tienen que aparecer:|Zones that must appear:|Zonas que devem aparecer:
+El brillo|The glow|O brilho
+Lo agrega la app (recomendado)|The app adds it (recommended)|O app adiciona (recomendado)
+Que la IA lo dibuje|Let the AI draw it|Deixe a IA desenhar
+Si creás zonas que brillan (Cuerpo → Zonas que brillan), vas a poder sumarlas al pedido.|If you create glowing zones (Body → Glowing zones), you'll be able to add them to the request.|Se você criar zonas que brilham (Corpo → Zonas que brilham), poderá somá-las ao pedido.
+Pegalo en Gemini junto con una imagen actual del personaje. Después subí el resultado en la pose.|Paste it into Gemini with a current image of the character. Then upload the result to the pose.|Cole no Gemini junto com uma imagem atual do personagem. Depois envie o resultado na pose.
+celeste|light blue|azul-claro
+celeste hielo|icy blue|azul-gelo
+azul|blue|azul
+blanco|white|branco
+amarillo|yellow|amarelo
+dorado claro|light gold|dourado-claro
+dorado|gold|dourado
+naranja|orange|laranja
+rojo|red|vermelho
+rojo oscuro|dark red|vermelho-escuro
+verde|green|verde
+verde agua|aqua green|verde-água
+violeta|violet|violeta
+rosa|pink|rosa
+negro|black|preto
+Tatuajes, hielo, fuego, un halo… Anotalas acá con su parte del cuerpo y color: se suman al pedido para Gemini y después las pintás sobre la imagen.|Tattoos, ice, fire, a halo… List them here with their body part and color: they get added to the Gemini request and later you paint them on the image.|Tatuagens, gelo, fogo, um halo… Anote aqui com a parte do corpo e a cor: elas entram no pedido ao Gemini e depois você as pinta sobre a imagem.
+Te paso dos imágenes: la primera es mi personaje{0} y la segunda es una figura gris de referencia. Generá una imagen nueva del MISMO personaje de la primera imagen haciendo exactamente la pose de la figura ({1}), en el mismo lugar y tamaño que ocupa la figura.|I'm giving you two images: the first is my character{0} and the second is a gray reference figure. Generate a new image of the SAME character from the first image doing exactly the pose of the figure ({1}), in the same place and size as the figure.|Envio duas imagens: a primeira é meu personagem{0} e a segunda é uma figura cinza de referência. Gere uma nova imagem do MESMO personagem da primeira imagem fazendo exatamente a pose da figura ({1}), no mesmo lugar e tamanho que a figura ocupa.
+No copies el color gris ni el aspecto de la figura: solo su pose y su encuadre. Que no se corte ninguna parte del cuerpo.|Don't copy the gray color or the look of the figure: only its pose and framing. Don't cut off any part of the body.|Não copie a cor cinza nem a aparência da figura: só a pose e o enquadramento. Não corte nenhuma parte do corpo.
+Plantilla de pose (recomendado): una figura con la pose y el encuadre de la app para pasarle a la IA junto con tu personaje.|Pose template (recommended): a figure with the pose and framing the app uses, to give the AI along with your character.|Modelo de pose (recomendado): uma figura com a pose e o enquadramento do app para passar à IA junto com seu personagem.
+Sin plantilla|No template|Sem modelo
+Descargar plantilla|Download template|Baixar modelo
+Pasale a la IA: 1) la imagen de tu personaje, 2) esta plantilla, 3) el texto.|Give the AI: 1) your character's image, 2) this template, 3) the text.|Passe para a IA: 1) a imagem do seu personagem, 2) este modelo, 3) o texto.
+Plantilla descargada|Template downloaded|Modelo baixado
+De pie|Standing|De pé
+Ataque|Attack|Ataque
+Defensa|Defense|Defesa
+Lanzando un hechizo|Casting a spell|Lançando uma magia
+Cantando|Singing|Cantando
+Sentado en el suelo|Sitting on the ground|Sentado no chão
+Durmiendo (acostado)|Sleeping (lying down)|Dormindo (deitado)
+Fondo|Background|Fundo
+Una imagen de fondo detrás del personaje: un paisaje, un castillo, lo que quieras. Cada pose puede tener uno propio.|A background image behind the character: a landscape, a castle, whatever you like. Each pose can have its own.|Uma imagem de fundo atrás do personagem: uma paisagem, um castelo, o que quiser. Cada pose pode ter o seu.
+Sin fondo|No background|Sem fundo
+Cambiar fondo|Change background|Trocar fundo
+Subir fondo|Upload background|Enviar fundo
+Quitar fondo|Remove background|Remover fundo
+Oscurecer el fondo|Darken the background|Escurecer o fundo
+¿Querés pedirle la imagen a una IA? (Gemini u otra)|Want to ask an AI for the image? (Gemini or another)|Quer pedir a imagem a uma IA? (Gemini ou outra)
+Subí una imagen para cada pose: un dibujo tuyo, un archivo que ya tengas o algo hecho con IA. Las de combate aparecen solas al entrar en combate.|Upload an image for each pose: your own drawing, a file you already have or something made with AI. Combat poses show up automatically when entering combat.|Envie uma imagem para cada pose: um desenho seu, um arquivo que já tenha ou algo feito com IA. As de combate aparecem sozinhas ao entrar em combate.
+Cambiar fondo propio|Change own background|Trocar fundo próprio
+Fondo propio|Own background|Fundo próprio
+Quitar fondo propio|Remove own background|Remover fundo próprio
+Fondo cargado|Background uploaded|Fundo carregado
+Altura|Height|Altura
+Peso|Weight|Peso
+Ej.: 3,8 m|E.g.: 12 ft 6 in|Ex.: 3,8 m
+Ej.: 450 kg|E.g.: 990 lb|Ex.: 450 kg
+Más datos|More details|Mais dados
+Altura, peso, edad, ojos, deidad… Cambiá el nombre de cada dato, borralos o agregá los que quieras.|Height, weight, age, eyes, deity… Rename each detail, delete them or add as many as you want.|Altura, peso, idade, olhos, divindade… Mude o nome de cada dado, apague ou adicione quantos quiser.
+Nombre del dato|Detail name|Nome do dado
+Valor|Value|Valor
+Agregar dato|Add detail|Adicionar dado
+Bajar|Download|Baixar
+Usar esta pose en el texto|Use this pose in the text|Usar esta pose no texto
+Tocá una figura para usarla en el texto. Marcá “Bajar” en las que quieras descargar.|Tap a figure to use it in the text. Check “Download” on the ones you want to save.|Toque numa figura para usá-la no texto. Marque “Baixar” nas que quiser salvar.
+Descargar marcadas|Download checked|Baixar marcadas
+Descargar todas|Download all|Baixar todas
+{0} plantillas descargadas|{0} templates downloaded|{0} modelos baixados
+Algo falló al mostrar esta parte|Something failed while showing this part|Algo falhou ao mostrar esta parte
+Versión|Version|Versão
+Error|Error|Erro
+Tus datos|Your details|Seus dados
+Para los cálculos|Used in calculations|Para os cálculos
+Clase, raza, altura, peso, edad, deidad… Cambiá el nombre de cada dato, borralos o agregá los que quieras.|Class, race, height, weight, age, deity… Rename each detail, delete them or add as many as you want.|Classe, raça, altura, peso, idade, divindade… Mude o nome de cada dado, apague ou adicione quantos quiser.
+Pincel inteligente|Smart brush|Pincel inteligente
+Varita|Magic wand|Varinha
+Tolerancia|Tolerance|Tolerância
+Copiar desde otra pose:|Copy from another pose:|Copiar de outra pose:
+Mover|Move|Mover
+Giro|Rotation|Giro
+Espejar|Mirror|Espelhar
+Fijar|Apply|Fixar
+Descartar copia|Discard copy|Descartar cópia
+Pincel: pintás donde pasás el dedo. Pincel inteligente: solo marca lo que tiene el color donde empezaste a pintar. Varita: un toque selecciona todo lo pegado de ese color.|Brush: paints wherever your finger goes. Smart brush: only marks what has the color where you started painting. Wand: one tap selects everything connected of that color.|Pincel: pinta onde você passa o dedo. Pincel inteligente: só marca o que tem a cor onde você começou a pintar. Varinha: um toque seleciona tudo o que está ligado com essa cor.
+Casi nada seleccionado: subí la tolerancia|Almost nothing selected: raise the tolerance|Quase nada selecionado: aumente a tolerância
+Arrastrá para acomodar y tocá Fijar|Drag to position it and tap Apply|Arraste para ajustar e toque em Fixar
+Nueva invocación|New summon|Nova invocação
+Adentro|Inside|Dentro
+Invocada|Summoned|Invocada
+Agotada|Exhausted|Esgotada
+Vida (0 = sin vida propia)|HP (0 = no own HP)|Vida (0 = sem vida própria)
+Volver adentro|Bring back inside|Voltar para dentro
+Invocar|Summon|Invocar
+Sin invocaciones todavía.|No summons yet.|Ainda sem invocações.
+Invocaciones y compañeros|Summons & companions|Invocações e companheiros
+Espíritus, brujas, mascotas, criaturas… cada uno con su vida, su estado y cuántos turnos dura afuera.|Spirits, witches, pets, creatures… each with its own HP, state and how many turns it lasts outside.|Espíritos, bruxas, mascotes, criaturas… cada um com sua vida, seu estado e quantos turnos dura fora.
+Invocaciones|Summons|Invocações
+Invocó a {0}|Summoned {0}|Invocou {0}
+Acercar|Zoom in|Aproximar
+Alejar|Zoom out|Afastar
+Mover vista|Move view|Mover visão
+Con dos dedos también agrandás y movés.|You can also zoom and move with two fingers.|Com dois dedos também dá para ampliar e mover.
+Efecto|Effect|Efeito
+Brillo|Glow|Brilho
+Fuego|Fire|Fogo
+Hielo / escarcha|Ice / frost|Gelo / geada
+Electricidad|Electricity|Eletricidade
+Humo|Smoke|Fumaça
+Metálico / armadura|Metallic / armor|Metálico / armadura
+Sombra|Shadow|Sombra
+Luz sagrada|Holy light|Luz sagrada
+Veneno / ácido|Poison / acid|Veneno / ácido
+Sangre|Blood|Sangue
+Lava|Lava|Lava
+Cristal / arcano|Crystal / arcane|Cristal / arcano
+Sobrevida|Temp HP|Vida temporária
+Sumar sobrevida|Add temp HP|Somar vida temporária
+La sobrevida se gasta primero al recibir daño.|Temp HP is spent first when taking damage.|A vida temporária é gasta primeiro ao receber dano.
+Quitar sobrevida|Remove temp HP|Remover vida temporária
+de sobrevida|from temp HP|de vida temporária
+Escribí cuánta sobrevida sumar|Type how much temp HP to add|Escreva quanta vida temporária somar
+Ganó {0} de sobrevida|Gained {0} temp HP|Ganhou {0} de vida temporária
+Capa|Layer|Camada
+Brillos y capas|Glows & layers|Brilhos e camadas
+Capas|Layers|Camadas
+Imágenes que se ponen encima o detrás del personaje: armaduras, alas, espectros, auras, brazos de más… Se prenden y apagan con un toque.|Images placed in front of or behind the character: armor, wings, spirits, auras, extra arms… Turn them on and off with one tap.|Imagens que ficam na frente ou atrás do personagem: armaduras, asas, espectros, auras, braços extras… Ligam e desligam com um toque.
+Lugar|Position|Posição
+Delante del personaje|In front of the character|Na frente do personagem
+Detrás del personaje|Behind the character|Atrás do personagem
+Transparencia|Opacity|Opacidade
+Quitar fondo blanco al subir|Remove white background on upload|Remover fundo branco ao enviar
+Acomodar|Adjust|Ajustar
+Quitar|Remove|Remover
+Subir|Upload|Enviar
+Usar en las poses que faltan|Use in the missing poses|Usar nas poses que faltam
+Borrar capa|Delete layer|Apagar camada
+Sin capas todavía.|No layers yet.|Ainda sem camadas.
+Nueva capa|New layer|Nova camada
+Restablecer|Reset|Restaurar
+Arrastrá con un dedo para mover. Con dos dedos agrandás, achicás y girás a la vez.|Drag with one finger to move. With two fingers you scale and rotate at the same time.|Arraste com um dedo para mover. Com dois dedos você amplia, reduz e gira ao mesmo tempo.
+Capa acomodada|Layer adjusted|Camada ajustada
+Subí una imagen para esta capa en Cuerpo → Capas|Upload an image for this layer in Body → Layers|Envie uma imagem para esta camada em Corpo → Camadas
+Copiada a {0} pose(s). Acomodala en cada una si hace falta.|Copied to {0} pose(s). Adjust it on each one if needed.|Copiada para {0} pose(s). Ajuste em cada uma se precisar.
+Todas las poses ya tienen imagen|All poses already have an image|Todas as poses já têm imagem
+Enciende la zona o capa|Lights up zone or layer|Acende a zona ou camada
+Ver foto|View photo|Ver foto
+Foto|Photo|Foto
+Foto agregada|Photo added|Foto adicionada
+Borrar foto|Delete photo|Apagar foto
+Tirada|Roll|Rolagem
+Ataque|Attack|Ataque
+Habilidad|Skill|Perícia
+Salvación|Saving throw|Salvaguarda
+Característica|Ability|Atributo
+Iniciativa|Initiative|Iniciativa
+Libre|Free|Livre
+Bonificador|Bonus|Bônus
+Agregá armas en la pestaña Armas.|Add weapons in the Weapons tab.|Adicione armas na aba Armas.
+Normal|Normal|Normal
+Ventaja|Advantage|Vantagem
+Desventaja|Disadvantage|Desvantagem
+Lo que salió en el d20|What you rolled on the d20|O que saiu no d20
+Segundo d20|Second d20|Segundo d20
+Tirar virtual|Virtual roll|Rolar virtual
+Crítico|Critical|Crítico
+Suma de los dados de daño|Sum of the damage dice|Soma dos dados de dano
+Últimas tiradas|Recent rolls|Últimas rolagens
+¡Crítico!|Critical!|Crítico!
+Pifia|Fumble|Falha crítica
+Escribí lo que salió en tu dado o tocá Tirar virtual.|Type what your die shows or tap Virtual roll.|Escreva o que saiu no seu dado ou toque em Rolar virtual.
+Daño máximo: no hace falta tirar|Max damage: no need to roll|Dano máximo: não precisa rolar
+Tirá {0} y escribí la suma|Roll {0} and type the sum|Role {0} e escreva a soma
+Anotar en el registro|Add to the log|Anotar no registro
+Anotado|Logged|Anotado
+Duplicar dados|Double dice|Dobrar dados
+Triplicar dados|Triple dice|Triplicar dados
+Daño máximo|Max damage|Dano máximo
+Máximo + tirada normal|Max + normal roll|Máximo + rolagem normal
+Sin crítico|No critical|Sem crítico
+Calculadora de tiradas|Roll calculator|Calculadora de rolagens
+Compendio|Compendium|Compêndio
+Compendio de conjuros e ítems|Spells & items compendium|Compêndio de magias e itens
+Conjuros|Spells|Magias
+Dotes|Feats|Talentos
+Mis entradas|My entries|Minhas entradas
+Buscar (nombre o texto)…|Search (name or text)…|Buscar (nome ou texto)…
+Todos los niveles|All levels|Todos os níveis
+Trucos|Cantrips|Truques
+Truco|Cantrip|Truque
+Nivel {0}|Level {0}|Nível {0}
+Todas las clases|All classes|Todas as classes
+propio|custom|próprio
+Nada encontrado.|Nothing found.|Nada encontrado.
+Mostrar más ({0})|Show more ({0})|Mostrar mais ({0})
+Nueva entrada propia|New custom entry|Nova entrada própria
+Incluye material del SRD 5.1 de Wizards of the Coast (CC BY 4.0). Texto en inglés por ahora.|Includes material from the SRD 5.1 by Wizards of the Coast (CC BY 4.0).|Inclui material do SRD 5.1 da Wizards of the Coast (CC BY 4.0). Texto em inglês por enquanto.
+Cargando compendio…|Loading compendium…|Carregando compêndio…
+Tipo|Type|Tipo
+Conjuro|Spell|Magia
+Ítem mágico|Magic item|Item mágico
+Dote|Feat|Talento
+Otro|Other|Outro
+Detalle corto (nivel, escuela, alcance…)|Short detail (level, school, range…)|Detalhe curto (nível, escola, alcance…)
+Texto|Text|Texto
+Guardar en mi compendio|Save to my compendium|Salvar no meu compêndio
+Concentración|Concentration|Concentração
+Agregar a la ficha de {0}|Add to {0}'s sheet|Adicionar à ficha de {0}
+Creá un grupo en Poderes primero|Create a group in Powers first|Crie um grupo em Poderes primeiro
+{0} agregado a la ficha|{0} added to the sheet|{0} adicionado à ficha
+Sin nombre|Unnamed|Sem nome
+Guardado en tu compendio|Saved to your compendium|Salvo no seu compêndio
+ritual|ritual|ritual
+Buscar en el compendio (conjuros, dotes, ítems)|Search the compendium (spells, feats, items)|Buscar no compêndio (magias, talentos, itens)
+Buscar en el compendio|Search the compendium|Buscar no compêndio
+Modificadores|Modifiers|Modificadores
+Valor: un número (+2, -1) o dados (1d4, +1d6). Se guardan en el personaje.|Value: a number (+2, -1) or dice (1d4, +1d6). They're saved on the character.|Valor: um número (+2, -1) ou dados (1d4, +1d6). Ficam salvos no personagem.
+A la tirada|To the roll|Na rolagem
+Al daño|To damage|No dano
+Todas las tiradas|All rolls|Todas as rolagens
+Ataques|Attacks|Ataques
+Habilidades|Skills|Perícias
+Salvaciones|Saving throws|Salvaguardas
+Características|Abilities|Atributos
+Todavía no hay modificadores.|No modifiers yet.|Ainda não há modificadores.
+Agregar modificador|Add modifier|Adicionar modificador
+Nuevo modificador|New modifier|Novo modificador
+daño|damage|dano
+Agregá los tuyos: bendición, ventaja de terreno, furia, maldición… y prendelos cuando correspondan.|Add your own: bless, high ground, rage, curse… and turn them on when they apply.|Adicione os seus: bênção, terreno elevado, fúria, maldição… e ligue quando valerem.
+Resultado de {0} ({1})|Result of {0} ({1})|Resultado de {0} ({1})
+Otro (solo esta tirada)|Other (this roll only)|Outro (só esta rolagem)
+otro|other|outro
+Lazo|Lasso|Laço
+Traer de otra pose:|Bring from another pose:|Trazer de outra pose:
+Descartar|Discard|Descartar
+Arrastrá para mover. Con dos dedos agrandás y girás.|Drag to move. Use two fingers to scale and rotate.|Arraste para mover. Com dois dedos amplia e gira.
+Elegí un pincel de efecto y pintá: ves el efecto mientras pintás. Podés usar varios pinceles y colores en la misma zona. El lazo rodea una parte para moverla, agrandarla o girarla.|Pick an effect brush and paint: you see the effect as you paint. You can use several brushes and colors in the same zone. The lasso surrounds a part to move, scale or rotate it.|Escolha um pincel de efeito e pinte: você vê o efeito enquanto pinta. Pode usar vários pincéis e cores na mesma zona. O laço envolve uma parte para mover, ampliar ou girar.
+Pincel|Brush|Pincel
+Fusionar con|Blend with|Fundir com
+Acomodá la parte: arrastrá con un dedo, agrandá y girá con dos. Después tocá Fijar.|Position the part: drag with one finger, scale and rotate with two. Then tap Apply.|Ajuste a parte: arraste com um dedo, amplie e gire com dois. Depois toque em Fixar.
+Rodeá con el dedo lo que querés traer de «{0}». O tocá Todo.|Draw around what you want to bring from “{0}”. Or tap All.|Contorne com o dedo o que quer trazer de “{0}”. Ou toque em Tudo.
+Todo|All|Tudo
+Rodeá con el dedo la parte que querés mover, agrandar o girar.|Draw around the part you want to move, scale or rotate.|Contorne com o dedo a parte que quer mover, ampliar ou girar.
+Pinceles de esta zona (cambiar acá recolorea todo lo pintado con ese pincel):|Brushes in this zone (changing here recolors everything painted with that brush):|Pincéis desta zona (mudar aqui recolore tudo o que foi pintado com esse pincel):
+Segundo color|Second color|Segunda cor
+Segundo color (fusión)|Second color (blend)|Segunda cor (fusão)
+Borrar pincel|Delete brush|Apagar pincel
+Cargador|Magazine|Carregador
+Reserva|Reserve|Reserva
+reserva|reserve|reserva
+Recargar|Reload|Recarregar
+Recuperar ({0})|Recover ({0})|Recuperar ({0})
+Munición y consumibles|Ammo & consumables|Munição e consumíveis
+Nada todavía.|Nothing yet.|Nada ainda.
+Cantidad|Amount|Quantidade
+Cargador (0 = no usa)|Magazine (0 = none)|Carregador (0 = não usa)
+Cura (ej.: 2d4+2)|Heals (e.g. 2d4+2)|Cura (ex.: 2d4+2)
+Flechas / virotes|Arrows / bolts|Flechas / virotes
+Balas / cartuchos|Bullets / shells|Balas / cartuchos
+Pociones|Potions|Poções
+Bombas / granadas|Bombs / grenades|Bombas / granadas
+Cuchillos arrojadizos|Throwing knives|Facas de arremesso
+Dardos|Darts|Dardos
+Pergaminos|Scrolls|Pergaminhos
+Otro|Other|Outro
+Munición|Ammo|Munição
+Disparé|I shot|Disparei
+Lancé|I threw|Arremessei
+Beber|Drink|Beber
+Lanzar|Throw|Lançar
+Usar|Use|Usar
+Sin usos|No uses left|Sem usos
+Sin {0}|No {0}|Sem {0}
+Grimorio de {0}|{0}'s grimoire|Grimório de {0}
+Índice|Contents|Índice
+Todavía no hay conjuros. Agregalos en Poderes o desde el Compendio.|No spells yet. Add them in Powers or from the Compendium.|Ainda não há magias. Adicione em Poderes ou pelo Compêndio.
+Usos|Uses|Usos
+turnos|turns|turnos
+Cambiar ilustración|Change picture|Trocar ilustração
+＋ Ilustración|＋ Picture|＋ Ilustração
+Página {0} de {1}|Page {0} of {1}|Página {0} de {1}
+Qué grupos entran|Which groups|Quais grupos entram
+Página anterior|Previous page|Página anterior
+Página siguiente|Next page|Próxima página
+Cerrar|Close|Fechar
+Abrir grimorio|Open grimoire|Abrir grimório
+o girá el celular|or turn your phone|ou gire o celular
+Usa munición|Uses ammo|Usa munição
+Cargador vacío: tocá Recargar|Magazine empty: tap Reload|Carregador vazio: toque em Recarregar
+Sin munición: {0}|Out of ammo: {0}|Sem munição: {0}
+No queda: {0}|None left: {0}|Acabou: {0}
+Bebió {0}: +{1} PV|Drank {0}: +{1} HP|Bebeu {0}: +{1} PV
+Curaste {0} PV|You healed {0} HP|Você curou {0} PV
+Usó {0}|Used {0}|Usou {0}
+Recargó {0}|Reloaded {0}|Recarregou {0}
+Recargado: {0}/{1}|Reloaded: {0}/{1}|Recarregado: {0}/{1}
+Recuperaste {0}|You recovered {0}|Você recuperou {0}
+No se pudo leer la imagen|Couldn't read the image|Não foi possível ler a imagem
+Carcaj, cargadores, pociones, bombas, cuchillos arrojadizos… Lo que se gasta se ve. Vinculá un arma a su munición para que se descuente sola.|Quivers, magazines, potions, bombs, throwing knives… You see what you spend. Link a weapon to its ammo so it counts down by itself.|Aljavas, carregadores, poções, bombas, facas de arremesso… O que se gasta aparece. Vincule uma arma à munição para descontar sozinha.
+Lanzar conjuro|Cast|Lançar magia
+Ambientación|Setting|Ambientação
+Cambia colores y letras de la ficha. Se puede cambiar cuando quieras desde el menú ☰.|Changes the sheet's colors and lettering. You can change it anytime from the ☰ menu.|Muda as cores e as letras da ficha. Pode trocar quando quiser no menu ☰.
+Medieval fantástico|Medieval fantasy|Medieval fantástico
+Ciencia ficción|Sci-fi|Ficção científica
+Steampunk|Steampunk|Steampunk
+Terror gótico|Gothic horror|Terror gótico
+Bosque feérico|Fey forest|Floresta feérica
+Piratas y mar|Pirates & sea|Piratas e mar
+Moderno / urbano|Modern / urban|Moderno / urbano
+Pergamino (claro)|Parchment (light)|Pergaminho (claro)
+Mostrar el grimorio (para magos)|Show the grimoire (for casters)|Mostrar o grimório (para magos)
+Tirar el d20|Rolling the d20|Rolar o d20
+20 natural (crítico)|Natural 20 (crit)|20 natural (crítico)
+1 natural (pifia)|Natural 1 (fumble)|1 natural (falha)
+Recibir daño|Taking damage|Receber dano
+Curarse|Healing|Curar-se
+Pasar de turno|Next turn|Passar o turno
+Entrar en combate|Entering combat|Entrar em combate
+Descansar|Resting|Descansar
+Recargar un arma|Reloading a weapon|Recarregar uma arma
+Este celular no puede reproducir ese audio|This phone can't play that audio|Este celular não consegue tocar esse áudio
+Sonido|Sound|Som
+Ninguno|None|Nenhum
+Escuchar|Listen|Ouvir
+Grabar o subir un sonido|Record or upload a sound|Gravar ou enviar um som
+Este navegador no deja grabar. Subí un archivo de audio.|This browser can't record. Upload an audio file.|Este navegador não grava. Envie um arquivo de áudio.
+Grabación {0}|Recording {0}|Gravação {0}
+No se pudo usar el micrófono. Revisá el permiso en los ajustes del celular.|Couldn't use the microphone. Check the permission in your phone settings.|Não foi possível usar o microfone. Verifique a permissão nos ajustes do celular.
+No se grabó nada|Nothing was recorded|Nada foi gravado
+El audio es muy largo (máximo unos 4 MB)|The audio is too long (about 4 MB max)|O áudio é muito longo (máximo uns 4 MB)
+No se pudo leer ese audio|Couldn't read that audio|Não foi possível ler esse áudio
+Listo|Done|Pronto
+Arrastrá las dos rayas doradas para dejar solo la parte que querés.|Drag the two gold lines to keep just the part you want.|Arraste as duas linhas douradas para deixar só a parte que você quer.
+Escuchar recorte|Play the cut|Ouvir o corte
+Escuchar todo|Play all|Ouvir tudo
+Cortar silencios|Trim silence|Cortar silêncios
+Empieza (seg)|Starts (sec)|Começa (seg)
+Termina (seg)|Ends (sec)|Termina (seg)
+Volumen|Volume|Volume
+Lo que grabes o subas se asigna a: {0}|What you record or upload goes to: {0}|O que você gravar ou enviar vai para: {0}
+Sonidos de {0}|{0}'s sounds|Sons de {0}
+Parar|Stop|Parar
+Grabar|Record|Gravar
+Subir audio|Upload audio|Enviar áudio
+Sonidos activados|Sounds on|Sons ativados
+Biblioteca|Library|Biblioteca
+Usar este|Use this one|Usar este
+Recortar|Trim|Cortar
+Todavía no hay sonidos. Grabá uno o subí un audio.|No sounds yet. Record one or upload audio.|Ainda não há sons. Grave um ou envie um áudio.
+Momentos|Moments|Momentos
+Sonidos que suenan solos en estos momentos. Para armas, munición, poderes, ítems mágicos e invocaciones, elegí el sonido al editar cada uno (botón 🎙).|Sounds that play by themselves at these moments. For weapons, ammo, powers, magic items and summons, pick the sound when editing each one (🎙 button).|Sons que tocam sozinhos nesses momentos. Para armas, munição, poderes, itens mágicos e invocações, escolha o som ao editar cada um (botão 🎙).
+Sonido asignado|Sound assigned|Som atribuído
+¿Borrar?|Delete?|Apagar?
+Audio|Audio|Áudio
+Sonidos|Sounds|Sons
+Sonido al atacar|Attack sound|Som ao atacar
+Sonido al invocar|Summon sound|Som ao invocar
+Sonido al usar|Use sound|Som ao usar
+Sonido al recargar|Reload sound|Som ao recarregar
+Barra|Bar|Barra
+Corazón|Heart|Coração
+Frasco|Flask|Frasco
+Monitor vital|Vital monitor|Monitor vital
+Escudo|Shield|Escudo
+Puntos|Dots|Pontos
+Velas|Candles|Velas
+Corazón sangrante|Bleeding heart|Coração sangrando
+Celdas de energía|Energy cells|Células de energia
+Engranajes|Gears|Engrenagens
+Calaveras|Skulls|Caveiras
+Runas|Runes|Runas
+Gemas|Gems|Gemas
+Llamas|Flames|Chamas
+Baterías|Batteries|Baterias
+Apariencia|Look|Aparência
+Según ambientación|Match the setting|Conforme a ambientação
+Éxitos necesarios|Successes needed|Sucessos necessários
+Fallos para morir|Failures to die|Falhas para morrer
+Apariencia de {0}|{0}'s look|Aparência de {0}
+Cada cosa puede tener su propio estilo. "Según ambientación" cambia solo cuando cambiás la ambientación.|Each thing can have its own style. "Match the setting" changes by itself when you change the setting.|Cada coisa pode ter seu próprio estilo. "Conforme a ambientação" muda sozinho quando você troca a ambientação.
+Vida|Hit points|Vida
+Recursos y espacios de conjuro|Resources & spell slots|Recursos e espaços de magia
+Estilo para todos:|Style for all:|Estilo para todos:
+Este personaje no tiene recursos todavía.|This character has no resources yet.|Este personagem ainda não tem recursos.
+Cayó: {0} fallos|Fell: {0} failures|Caiu: {0} falhas
+Sin más salvaciones…|No more saves…|Sem mais salvaguardas…
+Sonido de este conjuro|This spell's sound|Som desta magia
+Pasar página del grimorio|Turning a grimoire page|Virar página do grimório
+sin sonido|no sound|sem som
+Cambiar|Change|Trocar
+Poner sonido|Add sound|Pôr som
+Quitar sonido|Remove sound|Tirar som
+Nombre del conjuro|Spell name|Nome da magia
+Quitar ilustración|Remove picture|Tirar ilustração
+Borrar página|Delete page|Apagar página
+Editar|Edit|Editar
+Sonido al lanzar|Sound when casting|Som ao lançar
+Sonido al abrir la página|Sound when opening the page|Som ao abrir a página
+Página borrada|Page deleted|Página apagada
+Página nueva|New page|Página nova
+Conjuro nuevo|New spell|Magia nova
+Conjuros|Spells|Magias
+Sin aura|No aura|Sem aura
+Brillo|Glow|Brilho
+Pulso|Pulse|Pulso
+Fuego|Fire|Fogo
+Escarcha|Frost|Geada
+Sombra|Shadow|Sombra
+Rayos|Lightning|Raios
+Sagrado|Holy|Sagrado
+Sin imagen|No image|Sem imagem
+Ver {0}|View {0}|Ver {0}
+Imagen, evoluciones y capas|Image, evolutions & layers|Imagem, evoluções e camadas
+Evoluciones|Evolutions|Evoluções
+Cada evolución es una imagen distinta del arma u objeto (normal, despierta, maldita…). Tocá una para cambiarla.|Each evolution is a different image of the weapon or item (normal, awakened, cursed…). Tap one to switch.|Cada evolução é uma imagem diferente da arma ou objeto (normal, desperta, amaldiçoada…). Toque em uma para trocar.
+Evolución {0}|Evolution {0}|Evolução {0}
+Evolución|Evolution|Evolução
+Nombre de la evolución|Evolution name|Nome da evolução
+Cambiar imagen|Change image|Trocar imagem
+Capas superpuestas|Overlay layers|Camadas sobrepostas
+Imágenes que se ponen encima: llamas, runas, sangre, gemas engarzadas… Se prenden y apagan con un toque.|Images placed on top: flames, runes, blood, set gems… Turn them on and off with a tap.|Imagens colocadas por cima: chamas, runas, sangue, gemas… Liga e desliga com um toque.
+Capa|Layer|Camada
+Capa {0}|Layer {0}|Camada {0}
+Mover ↔|Move ↔|Mover ↔
+Mover ↕|Move ↕|Mover ↕
+Tamaño|Size|Tamanho
+Girar|Rotate|Girar
+Color y aura|Color & aura|Cor e aura
+Quitar el fondo blanco al subir imágenes|Remove white background when uploading|Tirar o fundo branco ao enviar imagens
+Normal|Normal|Normal
+Libro|Book|Livro
+Papiro|Scroll|Papiro
+Lista|List|Lista
+Estilo de las notas|Notes style|Estilo das notas
+Ir a la página|Go to page|Ir para a página
+Cuaderno|Notebook|Caderno
+Páginas dentro|Pages inside|Páginas dentro
+Página dentro de esta|Page inside this one|Página dentro desta
+Hecho|Done|Feito
+{0} entradas agregadas a tu compendio|{0} entries added to your compendium|{0} entradas adicionadas ao seu compêndio
+Conjuros y dotes: SRD 5.2.1 en español; ítems mágicos: SRD 5.1 en español. Material de Wizards of the Coast (CC BY 4.0). Traducciones de la comunidad: translate-dnd5e-sdr2-es y ravanno-dnd5e-es.|Spells and feats: SRD 5.2.1 in Spanish; magic items: SRD 5.1 in Spanish. Material by Wizards of the Coast (CC BY 4.0).|Magias e talentos: SRD 5.2.1 em espanhol; itens mágicos: SRD 5.1 em espanhol. Material da Wizards of the Coast (CC BY 4.0).
+Contador|Counter|Contador
+Activable por turnos|Toggle for turns|Ativável por turnos
+Transformación|Transformation|Transformação
+Efecto retrasado|Delayed effect|Efeito atrasado
+Tabla aleatoria|Random table|Tabela aleatória
+Tirada|Roll|Rolagem
+Texto|Text|Texto
+Cuadro vacío|Empty box|Quadro vazio
+Cuadro nuevo|New box|Quadro novo
+Contador de fragmentos|Shard counter|Contador de fragmentos
+Fragmentos|Shards|Fragmentos
+Fragmentos absorbidos|Shards absorbed|Fragmentos absorvidos
+Salvación contra la locura|Save against madness|Salvaguarda contra a loucura
+Qué pasa|What happens|O que acontece
+Escribí acá qué hace cada fragmento.|Write here what each shard does.|Escreva aqui o que cada fragmento faz.
+Sobrecarga y agotamiento|Overload & exhaustion|Sobrecarga e exaustão
+Sobrecarga|Overload|Sobrecarga
+Magia sin límite.|Unlimited magic.|Magia sem limite.
+Agotamiento|Exhaustion|Exaustão
+No puede usar magia.|Can't use magic.|Não pode usar magia.
+Forma de lobo|Wolf form|Forma de lobo
+Elegí a qué pose cambia y qué capas o zonas se prenden.|Pick which pose it changes to and which layers or zones light up.|Escolha para qual pose muda e quais camadas ou zonas acendem.
+Hechizo futuro|Future spell|Magia futura
+Hechizos en espera|Pending spells|Magias em espera
+Tabla d100|d100 table|Tabela d100
+Magia del caos|Chaos magic|Magia do caos
+Tabla de magia del caos|Chaos magic table|Tabela de magia do caos
+1-10: Escribí el efecto\n11-20: Otro efecto\n21-100: …|1-10: Write the effect\n11-20: Another effect\n21-100: …|1-10: Escreva o efeito\n11-20: Outro efeito\n21-100: …
+Pantalla de combate|Combat screen|Tela de combate
+Debajo del personaje|Below the character|Abaixo do personagem
+Pestaña: {0}|Tab: {0}|Aba: {0}
+Agregar un cuadro propio:|Add your own box:|Adicionar um quadro próprio:
+Nombre del cuadro|Box name|Nome do quadro
+Dónde se muestra|Where it shows|Onde aparece
+Borrar cuadro|Delete box|Apagar quadro
+Vacío. Tocá Editar para agregarle cosas.|Empty. Tap Edit to add things.|Vazio. Toque em Editar para adicionar coisas.
+Valor|Value|Valor
+Máximo (0 = sin tope)|Max (0 = no limit)|Máximo (0 = sem limite)
+Suma o resta de a|Step|Passo
+Dura (turnos, 0 = hasta apagarlo)|Lasts (turns, 0 = until turned off)|Dura (turnos, 0 = até desligar)
+Al terminar, activa|When it ends, starts|Ao terminar, ativa
+Cambia a la pose|Switches to pose|Muda para a pose
+No cambia|No change|Não muda
+Enciende otra zona o capa|Lights another zone or layer|Acende outra zona ou camada
+Sonido al activar|Sound when activated|Som ao ativar
+Turnos que tarda (dado o número)|Turns until it fires (die or number)|Turnos até ativar (dado ou número)
+Secreto: no mostrar el nombre ni los turnos en pantalla|Secret: don't show the name or turns on screen|Segredo: não mostrar o nome nem os turnos na tela
+Sonido cuando se activa|Sound when it fires|Som quando ativa
+Dado|Die|Dado
+Resultados (uno por renglón: 1-5: efecto)|Results (one per line: 1-5: effect)|Resultados (um por linha: 1-5: efeito)
+Fórmula (ej.: 2d6+3)|Formula (e.g. 2d6+3)|Fórmula (ex.: 2d6+3)
+Subir|Move up|Subir
+¿Seguro?|Sure?|Certeza?
+{0} turnos|{0} turns|{0} turnos
+Apagar|Turn off|Desligar
+Transformarse|Transform|Transformar-se
+Activar|Activate|Ativar
+¿Qué hechizo o efecto?|Which spell or effect?|Qual magia ou efeito?
+Programar|Schedule|Programar
+Efecto secreto|Secret effect|Efeito secreto
+en {0} turnos|in {0} turns|em {0} turnos
+Cancelar|Cancel|Cancelar
+Ocultar|Hide|Ocultar
+Ver (solo vos)|Peek (just you)|Ver (só você)
+Tirar {0}|Roll {0}|Rolar {0}
+o poné tu dado|or enter your roll|ou coloque seu dado
+Ver|Show|Ver
+No hay nada para ese número en la tabla.|Nothing in the table for that number.|Nada na tabela para esse número.
+Activó {0}|Activated {0}|Ativou {0}
+Empieza: {0}|Starts: {0}|Começa: {0}
+¡Se activa {0}!|{0} fires!|{0} ativa!
+Cuadro agregado: cambiale lo que quieras|Box added: change whatever you want|Quadro adicionado: mude o que quiser
+{0}: ¡al máximo!|{0}: maxed out!|{0}: no máximo!
+Efecto|Effect|Efeito
+Programó un efecto|Scheduled an effect|Programou um efeito
+Programado en secreto 🤫|Scheduled in secret 🤫|Programado em segredo 🤫
+{0}: sale en {1} turnos|{0}: fires in {1} turns|{0}: ativa em {1} turnos
+Poné el número que sacaste|Enter the number you rolled|Coloque o número que tirou
+Pestañas propias|Your own tabs|Abas próprias
+Creá una pestaña nueva (por ejemplo "Fragmentos" o "Licantropía") y mandá ahí los cuadros que quieras.|Create a new tab (e.g. "Shards" or "Lycanthropy") and send any boxes there.|Crie uma aba nova (ex.: "Fragmentos" ou "Licantropia") e mande os quadros que quiser.
+Nueva pestaña|New tab|Nova aba
+Pestaña nueva|New tab|Aba nova
+Cuadros de combate|Combat boxes|Quadros de combate
+se ven al entrar en combate|show when you enter combat|aparecem ao entrar em combate
+Acción preparada|Readied action|Ação preparada
+Hechizo temporal|Timed spell|Magia temporária
+Hechizo con duración|Spell with duration|Magia com duração
+Dura los turnos que pongas y se apaga solo. Podés vincularle una zona o capa que brille.|Lasts the turns you set and turns itself off. You can link a glowing zone or layer.|Dura os turnos que você definir e desliga sozinho. Pode vincular uma zona ou camada que brilha.
+Preparar acción|Ready an action|Preparar ação
+Sonido cuando se cumple|Sound when triggered|Som quando acontece
+Cuando|When|Quando
+Hago|I do|Faço
+¡Se cumplió!|It happened!|Aconteceu!
+Cuando… (el disparador)|When… (the trigger)|Quando… (o gatilho)
+Hago… (la acción o el conjuro)|I… (the action or spell)|Faço… (a ação ou magia)
+Preparar|Ready|Preparar
+Escribí el disparador o la acción|Write the trigger or the action|Escreva o gatilho ou a ação
+Preparó: {0}|Readied: {0}|Preparou: {0}
+¡Acción preparada! {0}|Readied action! {0}|Ação preparada! {0}
+¡Ahora! {0}|Now! {0}|Agora! {0}
+Acción preparada: {0}|Readied action: {0}|Ação preparada: {0}
+Quitar de favoritos|Remove from favorites|Tirar dos favoritos
+Agregar a favoritos|Add to favorites|Adicionar aos favoritos
+Favoritos|Favorites|Favoritos
+Preparados {0}|Prepared {0}|Preparadas {0}
+Preparado|Prepared|Preparado
+No preparado|Not prepared|Não preparado
+Hay que prepararlos cada día|Must be prepared each day|Precisa preparar a cada dia
+{0} no está preparado hoy|{0} isn't prepared today|{0} não está preparado hoje
+Ya preparaste el máximo ({0})|You already prepared the max ({0})|Você já preparou o máximo ({0})
+Propio|Custom|Próprio
+Harptos (Reinos Olvidados)|Harptos (Forgotten Realms)|Harptos (Reinos Esquecidos)
+Gregoriano (época real, ej. Cthulhu)|Gregorian (real era, e.g. Cthulhu)|Gregoriano (época real, ex. Cthulhu)
+Luna nueva|New moon|Lua nova
+Creciente|Waxing crescent|Crescente
+Cuarto creciente|First quarter|Quarto crescente
+Gibosa creciente|Waxing gibbous|Gibosa crescente
+Luna llena|Full moon|Lua cheia
+Gibosa menguante|Waning gibbous|Gibosa minguante
+Cuarto menguante|Last quarter|Quarto minguante
+Menguante|Waning crescent|Minguante
+de|of|de
+🌕 Esta noche hay luna llena|🌕 Full moon tonight|🌕 Hoje à noite tem lua cheia
+Calendario de la partida|Campaign calendar|Calendário da campanha
+Mostrar la fecha arriba de la ficha|Show the date at the top of the sheet|Mostrar a data no topo da ficha
+1 día|1 day|1 dia
+1 semana|1 week|1 semana
+1 mes|1 month|1 mês
+Qué pasa este día (lo ven todos los personajes de este celular)|What happens this day (all characters on this phone see it)|O que acontece neste dia (todos os personagens deste celular veem)
+Días anotados|Days with notes|Dias anotados
+Configurar calendario|Set up calendar|Configurar calendário
+Modelo|Template|Modelo
+Día|Day|Dia
+Mes|Month|Mês
+Año|Year|Ano
+Era (ej.: CV, d.C.)|Era (e.g. DR, AD)|Era (ex.: CV, d.C.)
+Días del ciclo lunar|Days in the moon cycle|Dias do ciclo lunar
+Correr la luna (días)|Shift the moon (days)|Ajustar a lua (dias)
+Meses (uno por renglón: Nombre: días)|Months (one per line: Name: days)|Meses (um por linha: Nome: dias)
+Días de la semana (separados por coma)|Weekdays (comma separated)|Dias da semana (separados por vírgula)
+Enemigo jurado|Sworn enemy|Inimigo jurado
+Hostil|Hostile|Hostil
+Desconfiado|Wary|Desconfiado
+Neutral|Neutral|Neutro
+Amistoso|Friendly|Amistoso
+Aliado|Ally|Aliado
+Venerado|Revered|Venerado
+Reputación con facciones|Faction reputation|Reputação com facções
+Cuánto te aprecian u odian los distintos grupos, de −10 a +10.|How much each group likes or hates you, from −10 to +10.|Quanto cada grupo gosta ou odeia você, de −10 a +10.
+Notas sobre esta facción|Notes about this faction|Notas sobre esta facção
+Bajar|Lower|Baixar
+Sin facciones todavía.|No factions yet.|Sem facções ainda.
+Nueva facción|New faction|Nova facção
+Facción nueva|New faction|Facção nova
+Número y marcas|Number & marks|Número e marcas
+Gotas de sangre|Blood drops|Gotas de sangue
+Termómetro|Thermometer|Termômetro
+Aguja|Needle|Ponteiro
+Orbe|Orb|Orbe
+Secretos|Secrets|Segredos
+Lo que el resto de la mesa no tiene que ver. Queda cifrado con un PIN: sin el PIN no se puede leer, ni siquiera desde una copia de seguridad.|What the rest of the table shouldn't see. Encrypted with a PIN: without it, it can't be read, not even from a backup.|O que o resto da mesa não deve ver. Fica criptografado com um PIN: sem ele não dá para ler, nem pela cópia de segurança.
+PIN nuevo (4 o más)|New PIN (4 or more)|PIN novo (4 ou mais)
+Repetilo|Repeat it|Repita
+Crear|Create|Criar
+Abrir|Open|Abrir
+Guardar y cerrar|Save & lock|Salvar e fechar
+Escribí acá tus secretos…|Write your secrets here…|Escreva seus segredos aqui…
+¿Borrar todo? Tocá otra vez|Delete everything? Tap again|Apagar tudo? Toque de novo
+Borrar secretos y PIN|Delete secrets & PIN|Apagar segredos e PIN
+El PIN tiene que tener 4 o más caracteres|The PIN must have 4 or more characters|O PIN precisa ter 4 ou mais caracteres
+Los dos PIN no coinciden|The two PINs don't match|Os dois PIN não coincidem
+Secretos creados. ¡No te olvides el PIN!|Secrets created. Don't forget the PIN!|Segredos criados. Não esqueça o PIN!
+PIN incorrecto|Wrong PIN|PIN incorreto
+Guardado y cerrado|Saved & locked|Salvo e fechado
+Este navegador no permite cifrar. Abrí la app desde el link https.|This browser can't encrypt. Open the app from the https link.|Este navegador não permite criptografar. Abra o app pelo link https.
+Bienvenido a Telita de Mistra|Welcome to Telita de Mistra|Bem-vindo ao Telita de Mistra
+Un recorrido rápido por lo importante. Lo podés repetir cuando quieras desde el menú ☰.|A quick tour of the important parts. Replay it anytime from the ☰ menu.|Um passeio rápido pelo importante. Repita quando quiser pelo menu ☰.
+Menú|Menu|Menu
+Acá cambiás de personaje, abrís el compendio, los sonidos, la apariencia, el calendario y hacés copias de seguridad.|Switch characters, open the compendium, sounds, look, calendar and make backups here.|Aqui você troca de personagem, abre o compêndio, sons, aparência, calendário e faz backups.
+Tu personaje|Your character|Seu personagem
+La imagen cambia de pose en combate, y las zonas y capas se prenden con los poderes.|The image changes pose in combat, and zones and layers light up with powers.|A imagem muda de pose em combate, e zonas e camadas acendem com os poderes.
+Escribí el daño que te hicieron y tocá Daño o Curar. La sobrevida se gasta primero.|Type the damage you took and tap Damage or Heal. Temp HP is spent first.|Escreva o dano e toque em Dano ou Curar. A vida temporária é gasta primeiro.
+Entrá en combate para ver todo lo de pelea junto y llevar la cuenta de los turnos.|Enter combat to see everything for fighting together and track turns.|Entre em combate para ver tudo de luta junto e contar os turnos.
+Pestañas|Tabs|Abas
+Poderes, armas, cuerpo, hoja de personaje y notas. También podés crear pestañas propias.|Powers, weapons, body, character sheet and notes. You can also create your own tabs.|Poderes, armas, corpo, ficha e notas. Você também pode criar abas próprias.
+Con Editar cambiás, agregás o borrás cualquier cosa de la ficha, y armás tus propios cuadros.|With Edit you change, add or delete anything on the sheet, and build your own boxes.|Com Editar você muda, adiciona ou apaga qualquer coisa da ficha e monta seus quadros.
+Dados|Dice|Dados
+Cargá lo que sacaste en tus dados físicos y la app suma bonos, ventaja y críticos.|Enter what you rolled on your physical dice and the app adds bonuses, advantage and crits.|Coloque o que tirou nos dados físicos e o app soma bônus, vantagem e críticos.
+¿Te equivocaste? Deshacer vuelve atrás el último cambio.|Made a mistake? Undo reverts the last change.|Errou? Desfazer volta a última mudança.
+¡Listo!|All set!|Pronto!
+Todo se guarda solo en este celular. Usá Exportar todo de vez en cuando como copia de seguridad.|Everything saves on this phone by itself. Use Export all now and then as a backup.|Tudo é salvo neste celular. Use Exportar tudo de vez em quando como backup.
+Saltar|Skip|Pular
+Terminar|Finish|Terminar
+Siguiente|Next|Próximo
+Tutorial|Tutorial|Tutorial
+Modo terror|Horror mode|Modo terror
+La pantalla se oscurece y tiembla a medida que perdés vida, con parpadeos y sangre en los bordes.|The screen darkens and shakes as you lose HP, with flickers and blood at the edges.|A tela escurece e treme conforme você perde vida, com piscadas e sangue nas bordas.
+Medidores|Meters|Medidores
+Personalizado (multiplicar y máximos)|Custom (multiply & max dice)|Personalizado (multiplicar e máximos)
+Multiplica los dados por|Multiply dice by|Multiplica os dados por
+Cuántos dados pegan al máximo|How many dice deal max|Quantos dados causam o máximo
+Ninguno: se tiran todos|None: roll them all|Nenhum: rola todos
+La mitad al máximo, el resto se tira|Half at max, roll the rest|Metade no máximo, o resto rola
+Todos al máximo|All at max|Todos no máximo
+se tiran todos|all rolled|todos rolados
+la mitad al máximo|half at max|metade no máximo
+todos al máximo|all at max|todos no máximo
+Tirá {0} y escribí la suma (+{1} fijo por máximos)|Roll {0} and enter the sum (+{1} fixed from max dice)|Role {0} e escreva a soma (+{1} fixo dos máximos)
+Mapas|Maps|Mapas
+{0} anotaciones|{0} notes|{0} anotações
+Subir mapa|Upload map|Enviar mapa
+Los mapas se guardan en este celular y los ven todos los personajes. Entran en "Exportar todo".|Maps are saved on this phone and every character sees them. They're included in "Export all".|Os mapas ficam neste celular e todos os personagens veem. Entram em "Exportar tudo".
+Con anotaciones|With notes|Com anotações
+Sin anotaciones|Without notes|Sem anotações
+Tocá el mapa para poner una anotación. Tocá una anotación para editarla.|Tap the map to place a note. Tap a note to edit it.|Toque no mapa para colocar uma anotação. Toque numa anotação para editá-la.
+Acercar|Zoom in|Aproximar
+Alejar|Zoom out|Afastar
+Ver entero|Fit|Ver inteiro
+Nombre (ej.: Taberna del Grifo)|Name (e.g. Griffin Tavern)|Nome (ex.: Taverna do Grifo)
+Qué hay acá|What's here|O que há aqui
+Borrar mapa|Delete map|Apagar mapa
+Cargando mapa…|Loading map…|Carregando mapa…
+Mapa|Map|Mapa
+Calculadora|Calculator|Calculadora
+Mesa de dados|Dice table|Mesa de dados
+Tocá los dados de la derecha para meterlos en el cubilete.|Tap the dice on the right to drop them in the cup.|Toque nos dados à direita para colocá-los no copo.
+Agregar d{0}|Add d{0}|Adicionar d{0}
+¡20 natural!|Natural 20!|20 natural!
+1 natural…|Natural 1…|1 natural…
+Usar como d20|Use as d20|Usar como d20
+Usar como daño|Use as damage|Usar como dano
+Agitar el cubilete|Shake the cup|Agitar o copo
+Cubilete vacío|Empty cup|Copo vazio
+Suma fija|Fixed bonus|Bônus fixo
+Vaciar|Empty|Esvaziar
+Agitar|Shake|Agitar
+¡Tirar!|Roll!|Rolar!
+También podés sacudir el celular y soltar.|You can also shake the phone and stop.|Você também pode sacudir o celular e parar.
+Dados: {0}|Dice: {0}|Dados: {0}
+Ya hay muchos dados en el cubilete|Too many dice in the cup|Já há muitos dados no copo
+Primero meté dados en el cubilete|Put dice in the cup first|Primeiro coloque dados no copo
+Dados cayendo en la mesa|Dice landing on the table|Dados caindo na mesa
+Aventurera de ejemplo|Example adventurer|Aventureira de exemplo
+Maga de batalla · personaje para aprender|Battle mage · practice character|Maga de batalha · personagem para aprender
+Brazo de rayos|Lightning arm|Braço de raios
+Pecho en llamas|Chest on fire|Peito em chamas
+Halo dorado|Golden halo|Auréola dourada
+Espacios de conjuro nivel 1|Level 1 spell slots|Espaços de magia nível 1
+Espacios de conjuro nivel 2|Level 2 spell slots|Espaços de magia nível 2
+Espacios de conjuro nivel 3|Level 3 spell slots|Espaços de magia nível 3
+Rayo de relámpago|Lightning bolt|Relâmpago
+Prende el brazo con rayos por 3 turnos (mirá la imagen).|Lights the arm with lightning for 3 turns (watch the image).|Acende o braço com raios por 3 turnos (veja a imagem).
+Escudo|Shield|Escudo
+Reacción: +5 a la CA hasta tu próximo turno.|Reaction: +5 AC until your next turn.|Reação: +5 na CA até seu próximo turno.
+Bola de fuego|Fireball|Bola de fogo
+Prende el pecho en llamas mientras dura.|Sets the chest ablaze while it lasts.|Acende o peito em chamas enquanto dura.
+Proyectil mágico|Magic missile|Mísseis mágicos
+Tres dardos de 1d4+1.|Three darts of 1d4+1.|Três dardos de 1d4+1.
+Dotes|Feats|Talentos
+Afortunada|Lucky|Sortuda
+3 puntos de suerte por día.|3 luck points per day.|3 pontos de sorte por dia.
+Espada rúnica|Rune sword|Espada rúnica
+Arco corto|Shortbow|Arco curto
+Carcaj|Quiver|Aljava
+Pociones de curación|Healing potions|Poções de cura
+Marcas rúnicas|Rune marks|Marcas rúnicas
+Cada golpe con la espada suma una marca.|Each sword hit adds a mark.|Cada golpe com a espada soma uma marca.
+Explotar|Detonate|Explodir
+Corrupción|Corruption|Corrupção
+Los ojos se vuelven negros|Eyes turn black|Os olhos ficam pretos
+La espada toma el control|The sword takes over|A espada assume o controle
+Bendición|Bless|Bênção
+Furia de la espada|Sword fury|Fúria da espada
+Sobrecarga arcana|Arcane overload|Sobrecarga arcana
+Magia sin límite por 2 turnos.|Unlimited magic for 2 turns.|Magia sem limite por 2 turnos.
+No puede lanzar conjuros.|Can't cast spells.|Não pode lançar magias.
+Inquisición|Inquisition|Inquisição
+Te buscan por usar magia prohibida.|They hunt you for using forbidden magic.|Te procuram por usar magia proibida.
+Gremio de magos|Mages' guild|Guilda dos magos
+Cómo usar este ejemplo|How to use this example|Como usar este exemplo
+Este personaje está armado para que pruebes todo: tocá Usar en «Rayo de relámpago» y mirá el brazo; entrá en combate y cambiá de pose; probá la sobrecarga; abrí la mesa de dados. Cuando termines, borralo desde ☰ → Personajes.|This character is set up so you can try everything: tap Use on "Lightning bolt" and watch the arm; enter combat and switch poses; try the overload; open the dice table. When you're done, delete it from ☰ → Characters.|Este personagem está montado para você testar tudo: toque em Usar em «Relâmpago» e veja o braço; entre em combate e mude de pose; teste a sobrecarga; abra a mesa de dados. Quando terminar, apague em ☰ → Personagens.
+Armando el personaje de ejemplo…|Building the example character…|Montando o personagem de exemplo…
+No se pudo armar el ejemplo|Couldn't build the example|Não foi possível montar o exemplo
+Probar con un personaje de ejemplo|Try an example character|Testar com um personagem de exemplo
+Hacerlo con un personaje de ejemplo|Do it with an example character|Fazer com um personagem de exemplo
+Lo que marcás con ☆ aparece acá como botón rápido.|What you mark with ☆ shows up here as a quick button.|O que você marca com ☆ aparece aqui como botão rápido.
+Lanzando un hechizo|Casting a spell|Lançando uma magia
+Trucos|Cantrips|Truques
+Nivel {0}|Level {0}|Nível {0}
+Sin nivel|No level|Sem nível
+Todos|All|Todos
+Truco|Cantrip|Truque
+Nivel (para ordenar por poder)|Level (to sort by power)|Nível (para ordenar por poder)
+Modo|Mode|Modo
+Jugador|Player|Jogador
+Máster|Game master|Mestre
+Calendario|Calendar|Calendário
+Iniciativa|Initiative|Iniciativa
+Enemigos|Enemies|Inimigos
+Temporizador|Timer|Cronômetro
+Cuaderno|Notebook|Caderno
+Ronda {0}|Round {0}|Rodada {0}
+Ordenar|Sort|Ordenar
+Tirar iniciativa de enemigos|Roll enemy initiative|Rolar iniciativa dos inimigos
+ahora: {0}|now: {0}|agora: {0}
+Quitar|Remove|Tirar
+daño|dmg|dano
+Fase|Phase|Fase
+Legendarias|Legendary|Lendárias
+Acción legendaria|Legendary action|Ação lendária
+Reacciones|Reactions|Reações
+Mostrar a la mesa|Show the table|Mostrar à mesa
+Estados (envenenado, derribado…)|Conditions (poisoned, prone…)|Condições (envenenado, caído…)
+Agregá jugadores y enemigos para llevar la iniciativa.|Add players and enemies to track initiative.|Adicione jogadores e inimigos para controlar a iniciativa.
+Agregar|Add|Adicionar
+Creá enemigos en la pestaña Enemigos para sumarlos acá.|Create enemies in the Enemies tab to add them here.|Crie inimigos na aba Inimigos para adicioná-los aqui.
+Terminar combate y limpiar|End combat and clear|Terminar combate e limpar
+Sin efecto|No effect|Sem efeito
+Lluvia|Rain|Chuva
+Nieve|Snow|Neve
+Niebla|Fog|Névoa
+Tormenta eléctrica|Thunderstorm|Tempestade elétrica
+Brasas|Embers|Brasas
+Oscuridad|Darkness|Escuridão
+Lluvia de sangre|Blood rain|Chuva de sangue
+Imagen|Image|Imagem
+Vida máxima|Max HP|Vida máxima
+Bono de iniciativa|Initiative bonus|Bônus de iniciativa
+Acciones legendarias por ronda|Legendary actions per round|Ações lendárias por rodada
+Reacciones por ronda|Reactions per round|Reações por rodada
+Ambiente al mostrarlo|Ambience when shown|Ambiente ao mostrar
+Notas del máster (ataques, debilidades, qué hace)|GM notes (attacks, weaknesses, what it does)|Notas do mestre (ataques, fraquezas, o que faz)
+Fases|Phases|Fases
+Cuando la vida baja de cierto número, cambia de fase: otra imagen y otra nota. Al mostrarlo a la mesa, la imagen cambia con una transición.|When HP drops below a number, it changes phase: another image and note. When shown to the table, the image changes with a transition.|Quando a vida cai abaixo de um número, muda de fase: outra imagem e nota. Ao mostrar à mesa, a imagem muda com uma transição.
+Empieza con vida en|Starts at HP|Começa com vida em
+o menos|or less|ou menos
+Qué cambia en esta fase|What changes in this phase|O que muda nesta fase
+Nueva fase|New phase|Nova fase
+Jefe: al mostrarlo, la imagen ocupa toda la pantalla|Boss: when shown, the image fills the screen|Chefe: ao mostrar, a imagem ocupa a tela toda
+Nuevo enemigo|New enemy|Novo inimigo
+Armá tus enemigos una vez y sumalos a cualquier combate. La vida y las notas solo las ves vos.|Build your enemies once and add them to any combat. Only you see HP and notes.|Monte seus inimigos uma vez e adicione a qualquer combate. Só você vê a vida e as notas.
+{0} PV|{0} HP|{0} PV
+{0} fases|{0} phases|{0} fases
+Sin enemigos todavía.|No enemies yet.|Sem inimigos ainda.
+Al mostrar a la mesa, la vida se ve como|When shown to the table, HP appears as|Ao mostrar à mesa, a vida aparece como
+No se muestra|Hidden|Não aparece
+Aproximada (herido, muy herido…)|Approximate (hurt, badly hurt…)|Aproximada (ferido, muito ferido…)
+Derrotado|Defeated|Derrotado
+Al borde de la muerte|Near death|À beira da morte
+Muy herido|Badly hurt|Muito ferido
+Herido|Hurt|Ferido
+Ileso|Unharmed|Ileso
+Tocá para cerrar|Tap to close|Toque para fechar
+Reloj de arena|Hourglass|Ampulheta
+Bomba|Bomb|Bomba
+Latido|Heartbeat|Batimento
+Vela|Candle|Vela
+Temporizador de presión|Pressure timer|Cronômetro de pressão
+"Se cierra la puerta, ¿qué hacen?" Elegí los segundos y mostrales la pantalla.|"The door is closing, what do you do?" Pick the seconds and show them the screen.|"A porta está fechando, o que vocês fazem?" Escolha os segundos e mostre a tela.
+Otro (segundos)|Other (seconds)|Outro (segundos)
+Mensaje en pantalla (opcional)|On-screen message (optional)|Mensagem na tela (opcional)
+¡La puerta se está cerrando!|The door is closing!|A porta está fechando!
+Empezar|Start|Começar
+¡Tiempo!|Time!|Tempo!
+Otra vez|Again|De novo
+Seguir|Resume|Continuar
+Pausa|Pause|Pausa
+Cuaderno del máster|GM notebook|Caderno do mestre
+Nueva|New|Nova
+Buscar en el cuaderno|Search the notebook|Buscar no caderno
+Trama, PNJs, botín, ideas…|Plot, NPCs, loot, ideas…|Trama, PdMs, tesouro, ideias…
+Para las notas compartidas con los personajes, los mapas y el calendario, usá los botones de arriba.|For notes shared with characters, maps and the calendar, use the buttons above.|Para notas compartilhadas, mapas e calendário, use os botões acima.
+Enemigo nuevo|New enemy|Inimigo novo
+Fase {0}|Phase {0}|Fase {0}
+Nota nueva|New note|Nota nova
+Iniciativa tirada y ordenada|Initiative rolled and sorted|Iniciativa rolada e ordenada
+{0} pasa a: {1}|{0} enters: {1}|{0} passa para: {1}
+{0} derrotado|{0} defeated|{0} derrotado
+¡{0} cambia de fase: {1}!|{0} changes phase: {1}!|{0} muda de fase: {1}!
+Fase: aparece con vida en|Phase: shows at HP|Fase: aparece com vida em
+Controles|Controls|Controles
+Subí su imagen en Poses y armale lo que quieras|Upload its image in Poses and build whatever you want|Envie a imagem em Poses e monte o que quiser
+Enemigo|Enemy|Inimigo
+Notas del máster|GM notes|Notas do mestre
+Acciones legendarias|Legendary actions|Ações lendárias
+Abrir ficha|Open sheet|Abrir ficha
+Cada enemigo es una ficha completa, como la de un personaje: poses que son sus fases (cambian solas según la vida), zonas que brillan con rayos o fuego, capas, poderes, armas, dados y combate. Lo armás una vez y lo sumás a cualquier combate.|Each enemy is a full sheet, like a character: poses are its phases (they change by HP), glowing zones with lightning or fire, layers, powers, weapons, dice and combat. Build it once and add it to any combat.|Cada inimigo é uma ficha completa: poses são suas fases (mudam pela vida), zonas que brilham, camadas, poderes, armas, dados e combate. Monte uma vez e use em qualquer combate.
+Volver a la mesa del máster|Back to the GM table|Voltar à mesa do mestre
+Zonas que brillan|Glowing zones|Zonas que brilham
+Pintá partes del arma con rayos, fuego, hielo, sangre… con los mismos pinceles que el personaje. Tocá una zona para prenderla o apagarla.|Paint parts of the weapon with lightning, fire, ice, blood… with the same brushes as the character. Tap a zone to turn it on or off.|Pinte partes da arma com raios, fogo, gelo, sangue… com os mesmos pincéis do personagem. Toque numa zona para ligar ou desligar.
+Pintar zona nueva|Paint new zone|Pintar zona nova
+Primero subí una imagen (evolución).|Upload an image (evolution) first.|Primeiro envie uma imagem (evolução).
+Pintar en esta evolución|Paint on this evolution|Pintar nesta evolução
+Zona {0}|Zone {0}|Zona {0}
+VD|CR|ND
+Velocidad|Speed|Deslocamento
+Salvaciones|Saving throws|Salvaguardas
+Habilidades|Skills|Perícias
+Resistencias|Resistances|Resistências
+Inmunidades|Immunities|Imunidades
+Vulnerabilidades|Vulnerabilities|Vulnerabilidades
+Inmune a estados|Condition immunities|Imune a condições
+Sentidos|Senses|Sentidos
+Desafío|Challenge|Desafio
+Rasgos|Traits|Traços
+Acciones|Actions|Ações
+Acciones adicionales|Bonus actions|Ações bônus
+Reacciones|Reactions|Reações
+Conjuros|Spells|Magias
+Datos del monstruo|Monster details|Dados do monstro
+Bestiario|Bestiary|Bestiário
+Herramientas|Tools|Ferramentas
+Al combate|To combat|Ao combate
+Al combate con vida tirada|To combat with rolled HP|Ao combate com vida rolada
+Crear ficha de enemigo (para ponerle imagen, brillos y fases)|Create enemy sheet (to add image, glows and phases)|Criar ficha de inimigo (para pôr imagem, brilhos e fases)
+{0} monstruos del SRD en castellano. Tocá uno para ver sus estadísticas y sumarlo al combate.|{0} SRD monsters. Tap one to see its stats and add it to combat.|{0} monstros do SRD. Toque em um para ver as estatísticas e adicionar ao combate.
+Buscar (goblin, dragón, lich…)|Search (goblin, dragon, lich…)|Buscar (goblin, dragão, lich…)
+Todos los tipos|All types|Todos os tipos
+Ver más|Show more|Ver mais
+{0} sumado al combate ({1} PV)|{0} added to combat ({1} HP)|{0} adicionado ao combate ({1} PV)
+Dificultad del encuentro|Encounter difficulty|Dificuldade do encontro
+Según el presupuesto de PX de las reglas 2024. Suma los enemigos del combate que tengan PX (los del bestiario) y los que agregues acá.|Uses the 2024 rules XP budget. Adds combat enemies with XP (from the bestiary) and any you add here.|Usa o orçamento de XP das regras 2024. Soma os inimigos do combate com XP (do bestiário) e os que você adicionar aqui.
+Jugadores|Players|Jogadores
+Nivel promedio|Average level|Nível médio
+Baja|Low|Baixa
+Moderada|Moderate|Moderada
+Alta|High|Alta
+Más que alta: puede ser mortal|Above high: could be deadly|Acima de alta: pode ser mortal
+Del combate|From combat|Do combate
+Agregar a mano (nombre, cantidad, PX)|Add manually (name, amount, XP)|Adicionar à mão (nome, quantidade, XP)
+Generadores|Generators|Geradores
+Para improvisar: tocá y sale algo nuevo. Lo que te guste lo podés pasar al cuaderno.|For improvising: tap for something new. Send what you like to the notebook.|Para improvisar: toque e sai algo novo. O que gostar, mande ao caderno.
+Nombre|Name|Nome
+PNJ completo|Full NPC|PdM completo
+Taberna|Tavern|Taverna
+Botín|Loot|Tesouro
+Clima|Weather|Clima
+VD del botín|Loot CR|ND do tesouro
+Primavera|Spring|Primavera
+Verano|Summer|Verão
+Otoño|Autumn|Outono
+Invierno|Winter|Inverno
+Al cuaderno|To notebook|Ao caderno
+Rasgo|Trait|Traço
+Quiere|Wants|Quer
+Secreto|Secret|Segredo
+Humano|Human|Humano
+Elfo|Elf|Elfo
+Enano|Dwarf|Anão
+Mediano|Halfling|Halfling
+Orco|Orc|Orc
+Tiefling|Tiefling|Tiefling
+Dracónido|Dragonborn|Draconato
+Dueño/a|Owner|Dono/a
+Especialidad|Specialty|Especialidade
+Rumor|Rumor|Rumor
+Precio de la habitación|Room price|Preço do quarto
+Tesoro para VD {0}|Treasure for CR {0}|Tesouro para ND {0}
+Objeto curioso|Curious item|Objeto curioso
+Objeto mágico|Magic item|Item mágico
+Sin objeto mágico esta vez|No magic item this time|Sem item mágico desta vez
+Temperatura|Temperature|Temperatura
+Viento|Wind|Vento
+Pasado al cuaderno|Sent to notebook|Enviado ao caderno
+Estados: referencia rápida|Conditions: quick reference|Condições: referência rápida
+Resumen hecho para la app; ante dudas, manda el reglamento que use tu mesa.|Summary written for the app; when in doubt, your table's rulebook wins.|Resumo feito para o app; na dúvida, vale o livro de regras da sua mesa.
+Ambiente sonoro|Ambient sound|Som ambiente
+Sonidos de fondo generados por la app, sin internet. Se pueden mezclar. También podés subir tu música o grabaciones.|Background sounds generated by the app, no internet needed. Mix them. You can also upload your music or recordings.|Sons de fundo gerados pelo app, sem internet. Dá para misturar. Também pode enviar suas músicas ou gravações.
+🌧 Lluvia|🌧 Rain|🌧 Chuva
+🌬 Viento|🌬 Wind|🌬 Vento
+🔥 Fogata|🔥 Campfire|🔥 Fogueira
+⛈ Tormenta|⛈ Storm|⛈ Tempestade
+🕳 Cueva con goteras|🕳 Dripping cave|🕳 Caverna com goteiras
+Tu música y audios|Your music & audio|Sua música e áudios
+repetir|loop|repetir
+Subir audio o música|Upload audio or music|Enviar áudio ou música
+Parar todo|Stop all|Parar tudo
+Dificultad|Difficulty|Dificuldade
+Estados|Conditions|Condições
+Ambiente|Ambience|Ambiente
+Tocá para quitar|Tap to remove|Toque para tirar
+Estado|Condition|Condição
+Duración de los estados que agregues (rondas, 0 = sin límite)|Duration of added conditions (rounds, 0 = unlimited)|Duração das condições (rodadas, 0 = sem limite)
+{0}: termina {1}|{0}: {1} ends|{0}: termina {1}
+{0} está concentrado|{0} is concentrating|{0} está concentrado
+No se pudo reproducir|Couldn't play|Não foi possível tocar
+El audio es muy pesado (máximo 15 MB)|The audio is too big (15 MB max)|O áudio é muito pesado (máximo 15 MB)
+Agotamiento|Exhaustion|Exaustão
+Concentración|Concentration|Concentração
+Tutoriales|Tutorials|Tutoriais
+Tutorial de máster|GM tutorial|Tutorial do mestre
+Elegí un capítulo. Si no tenés un personaje, se crea uno de ejemplo para practicar.|Pick a chapter. If you have no character, an example one is created to practice.|Escolha um capítulo. Se não tiver personagem, um de exemplo é criado para praticar.
+Todo lo que podés hacer como máster, capítulo por capítulo.|Everything you can do as GM, chapter by chapter.|Tudo o que você pode fazer como mestre, capítulo por capítulo.
+{0} pasos|{0} steps|{0} passos
+Recorrer todos los capítulos|Go through all chapters|Percorrer todos os capítulos
+Hay mucho más|There's much more|Tem muito mais
+En el menú ☰ → 📘 Tutoriales tenés capítulos de todo: poderes, armas, brillos, combate, dados, cuadros propios, sonidos… y un tutorial completo para máster.|In ☰ → 📘 Tutorials there are chapters for everything: powers, weapons, glows, combat, dice, custom boxes, sounds… and a full GM tutorial.|No menu ☰ → 📘 Tutoriais há capítulos de tudo: poderes, armas, brilhos, combate, dados, quadros próprios, sons… e um tutorial completo para mestre.

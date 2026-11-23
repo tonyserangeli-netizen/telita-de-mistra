@@ -1256,3 +1256,4 @@ Recorrer todos los capítulos|Go through all chapters|Percorrer todos os capítu
 Hay mucho más|There's much more|Tem muito mais
 En el menú ☰ → 📘 Tutoriales tenés capítulos de todo: poderes, armas, brillos, combate, dados, cuadros propios, sonidos… y un tutorial completo para máster.|In ☰ → 📘 Tutorials there are chapters for everything: powers, weapons, glows, combat, dice, custom boxes, sounds… and a full GM tutorial.|No menu ☰ → 📘 Tutoriais há capítulos de tudo: poderes, armas, brilhos, combate, dados, quadros próprios, sons… e um tutorial completo para mestre.
 Mapa borrado|Map deleted|Mapa apagado
+Tocá «✎ Editar» para marcar lugares, cambiar el nombre o la imagen, o borrar el mapa.|Tap «✎ Edit» to mark places, change the name or image, or delete the map.|Toque «✎ Editar» para marcar lugares, mudar o nome ou a imagem, ou apagar o mapa.

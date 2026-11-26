@@ -34,6 +34,7 @@ App de fichas de personaje para D&D (campaña propia, muy personalizable). PWA e
 | app20 | Enemigos como fichas completas, fases por vida, "mostrar a la mesa" |
 | app21 | Bestiario, dificultad de encuentros, generadores, estados, ambiente sonoro |
 | app22 | Tutoriales por capítulos (jugador y máster) |
+| app23 | Clima: climas editables (`APP.climas`), clima por mapa (`m.cli`), clima por rangos en el calendario (`APP.cal.cliR`, climas posibles por mes en `meses[i].cl`), y penalizadores/estados que se aplican solos a la ficha (`C.cliSrc`, marcados con `cli:1`) |
 
 ## Datos
 - `compendio-srd-es.json` y `bestiario-es.json` salen del SRD en español (CC BY 4.0). Los scripts que los arman están en `src/datos/`.

@@ -1,6 +1,6 @@
 "use strict";
 /* ============ utilidades ============ */
-const APPV="6.5";
+const APPV="6.6";
 let DOR=null;
 async function loadDor(){return DOR||(DOR={})}
 const DICT=__DICT__;

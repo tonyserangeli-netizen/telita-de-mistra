@@ -731,3 +731,19 @@ body.hshake .wrap{animation:shake .12s 4}
 .mtools{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
 .mcolor{position:relative;display:inline-flex;align-items:center;justify-content:center;background:var(--panel2);overflow:hidden;font-size:.9rem}.mcolor input{position:absolute;inset:0;opacity:0;width:100%;height:100%;cursor:pointer}
 .msz{display:inline-flex;gap:4px;margin-left:auto}.mszb{width:34px;height:34px;border-radius:8px;border:1px solid var(--line);background:var(--panel2);display:flex;align-items:center;justify-content:center;cursor:pointer;padding:0}.mszb.on{border-color:var(--gold);outline:2px solid var(--gold)}.mszb i{display:block;border-radius:50%}
+.mapview .ambfx{z-index:1}.mzoom{z-index:2}
+.amb-ventisca .ambfx{background-image:radial-gradient(2px 2px at 20px 30px,#fff,transparent),radial-gradient(3px 3px at 120px 80px,#fff,transparent),radial-gradient(2px 2px at 200px 150px,#fff,transparent),radial-gradient(2px 2px at 60px 190px,#fff,transparent),linear-gradient(rgba(220,235,255,.18),rgba(220,235,255,.18));background-size:160px 160px,160px 160px,160px 160px,160px 160px,100% 100%;animation:blizzard 1.2s linear infinite}
+@keyframes blizzard{to{background-position:-160px 80px,-160px 80px,-160px 80px,-160px 80px,0 0}}
+.amb-hielo .ambfx{background:radial-gradient(ellipse at center,transparent 45%,rgba(170,220,255,.35) 75%,rgba(230,248,255,.7) 100%);box-shadow:inset 0 0 40px rgba(200,235,255,.6);animation:frost 6s ease-in-out infinite alternate}
+@keyframes frost{to{opacity:.7}}
+.amb-calor .ambfx{background:linear-gradient(0deg,rgba(255,120,0,.28),rgba(255,180,60,.08) 60%,transparent);animation:heat 2.5s ease-in-out infinite alternate}
+@keyframes heat{to{opacity:.55;transform:translateY(-1.5%)}}
+.amb-arena .ambfx{background:repeating-linear-gradient(170deg,rgba(210,160,90,.0) 0 14px,rgba(210,160,90,.35) 14px 16px),linear-gradient(rgba(200,150,80,.25),rgba(200,150,80,.25));background-size:300px 120px,100% 100%;animation:sand .6s linear infinite}
+@keyframes sand{to{background-position:-300px 30px,0 0}}
+.amb-viento .ambfx{background:repeating-linear-gradient(178deg,transparent 0 40px,rgba(255,255,255,.18) 40px 41px);background-size:400px 200px;animation:wind .8s linear infinite}
+@keyframes wind{to{background-position:-400px 10px}}
+.clipanel select{width:100%}.clieff{margin:4px 0}
+.clical{margin:8px 0;display:flex;flex-direction:column;gap:6px}.clical h4,.cliedit h4{margin:8px 0 2px}
+.clir{font-size:.9rem}.climes{margin:6px 0}.climes b{display:block;margin-bottom:3px}
+.cliedit{display:flex;flex-direction:column;gap:6px;margin-top:6px}
+.clichip{margin-left:6px}

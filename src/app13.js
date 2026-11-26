@@ -52,6 +52,7 @@ function renderCal(){
     <label class="row hint" style="gap:6px"><input type="checkbox" data-cf="on" ${K.on?"checked":""} style="width:auto"> ${L("Mostrar la fecha arriba de la ficha")}</label>
     <div class="caltoday"><div class="moon" title="${L(mo.n)}">${mo.e}</div><div><div class="cdate">${esc(calStr(K))}</div><div class="hint">${L(mo.n)}</div></div></div>
     <div class="row"><button class="btn small" data-cl="mv" data-v="-1">− ${L("1 día")}</button><button class="btn small on" data-cl="mv" data-v="1">+ ${L("1 día")}</button><button class="btn small" data-cl="mv" data-v="7">+ ${L("1 semana")}</button><button class="btn small" data-cl="mv" data-v="${+(K.meses[K.mes]||{}).d||30}">+ ${L("1 mes")}</button></div>
+    ${cliCalHTML(K)}
     <label class="lbl">${L("Qué pasa este día (lo ven todos los personajes de este celular)")}<textarea rows="3" data-cev>${esc((K.ev||{})[calKey(K)]||"")}</textarea></label>
     ${up.length?`<h3>${L("Días anotados")}</h3><div class="calev">${up.map(e=>`<button class="card" data-cl="go" data-v="${e.k}"><b>${e.d} ${esc((K.meses[e.me]||{}).n||"")} ${e.a}</b><span class="d">${esc(e.v.slice(0,90))}</span></button>`).join("")}</div>`:""}
     <details class="grp"><summary>${L("Configurar calendario")}</summary>
@@ -152,7 +153,7 @@ function tutShow(){let el=document.getElementById("tut");if(ui.tut==null){if(el)
   document.addEventListener("change",e=>{const t=e.target;if(!t.dataset.cf)return;const K=cal(),f=t.dataset.cf;
     if(f==="on")K.on=t.checked;
     else if(f==="preset"){const p=CAL_PRESETS[t.value];if(p){K.preset=t.value;K.meses=JSON.parse(JSON.stringify(p.meses));K.semana=[...p.semana];K.era=p.era;K.lunaCiclo=p.luna;K.mes=Math.min(K.mes,K.meses.length-1)}}
-    else if(f==="meses"){const ms=t.value.split("\n").map(l=>{const m=l.match(/^(.+?)\s*[:=]\s*(\d+)\s*$/);return m?{n:m[1].trim(),d:+m[2]}:l.trim()?{n:l.trim(),d:30}:null}).filter(Boolean);if(ms.length){K.meses=ms;K.mes=Math.min(K.mes,ms.length-1);K.preset="propio"}}
+    else if(f==="meses"){const ms=t.value.split("\n").filter(l=>l.trim()).map((l,i)=>{const m=l.match(/^(.+?)\s*[:=]\s*(\d+)\s*$/);const o=m?{n:m[1].trim(),d:+m[2]}:{n:l.trim(),d:30};const cl=(K.meses[i]||{}).cl;if(cl)o.cl=cl;return o});if(ms.length){K.meses=ms;K.mes=Math.min(K.mes,ms.length-1);K.preset="propio"}}
     else if(f==="semana")K.semana=t.value.split(",").map(x=>x.trim()).filter(Boolean);
     else if(f==="era")K.era=t.value;
     else K[f]=f==="lunaCiclo"?Math.max(1,parseFloat(t.value)||28):(parseInt(t.value)||0);

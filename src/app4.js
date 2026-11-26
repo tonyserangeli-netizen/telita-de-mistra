@@ -426,7 +426,7 @@ async function download(name,obj){
   const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=name;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},1500);toast(L("Copia descargada"));
 }
 async function exportChar(id){const c=(C&&C.id===id)?C:await DB.get("c_"+id);if(!c)return;await download(`Telita - ${c.nombre}.json`,{app:"telita",tipo:"personaje",v:2,char:c,imgs:await collectImgs(c)})}
-async function exportAll(){const chars=[],imgs={};for(const ch of APP.chars){const c=(C&&C.id===ch.id)?C:await DB.get("c_"+ch.id);if(c){chars.push(c);Object.assign(imgs,await collectImgs(c))}}await loadMaps();await loadMaster();for(const k of [...noteImgKeys(),...mapImgKeys(),...masterImgKeys()]){const v=IMG.get(k)||await DB.get(k);if(v)imgs[k]=v}await download("Telita de Mistra - copia completa.json",{app:"telita",tipo:"todo",v:2,chars,notes:NOTES,mapas:MAPS,master:MS,lib:LIB||await DB.get("lib")||[],imgs})}
+async function exportAll(){const chars=[],imgs={};for(const ch of APP.chars){const c=(C&&C.id===ch.id)?C:await DB.get("c_"+ch.id);if(c){chars.push(c);Object.assign(imgs,await collectImgs(c))}}await loadMaps();await loadMaster();for(const k of [...noteImgKeys(),...mapImgKeys(),...masterImgKeys()]){const v=IMG.get(k)||await DB.get(k);if(v)imgs[k]=v}await download("Telita de Mistra - copia completa.json",{app:"telita",tipo:"todo",v:2,chars,notes:NOTES,mapas:MAPS,master:MS,lib:LIB||await DB.get("lib")||[],cal:APP.cal||null,climas:APP.climas||null,imgs})}
 async function importFile(file){
   if(!file)return;
   try{
@@ -436,6 +436,7 @@ async function importFile(file){
     let last=null,n=0,nl=0;
     if(o.tipo==="personaje"&&o.char){last=await add(o.char);n=1}
     if(o.tipo==="todo"){for(const c of o.chars||[]){last=await add(c);n++}if(Array.isArray(o.notes)&&o.notes.length){NOTES.push(...o.notes);await saveNotes()}if(o.master&&typeof o.master==="object"){await loadMaster();(o.master.enem||[]).forEach(x=>{if(!MS.enem.some(y=>y.id===x.id))MS.enem.push(x)});(o.master.notas||[]).forEach(x=>{if(!MS.notas.some(y=>y.id===x.id))MS.notas.push(x)});await DB.set("master",MS)}if(Array.isArray(o.mapas)&&o.mapas.length){await loadMaps();o.mapas.forEach(x=>{if(!MAPS.some(y=>y.id===x.id))MAPS.push(x)});await saveMaps()}if(Array.isArray(o.lib)&&o.lib.length){LIB=(LIB||(await DB.get("lib"))||[]);o.lib.forEach(x=>{const i=LIB.findIndex(y=>y.id===x.id);if(i<0){LIB.push(x);nl++}else LIB[i]=x});await DB.set("lib",LIB)}}
+    if(o.tipo==="todo"){if(o.cal&&typeof o.cal==="object"&&(!APP.cal||!APP.cal.on))APP.cal=o.cal;if(Array.isArray(o.climas)){const L0=clis();o.climas.forEach(x=>{if(x&&x.id&&!L0.some(y=>y.id===x.id))L0.push(x)})}}
     await DB.set("index",APP);if(last){await openChar(last.id);ui.screen="char"}ui.menu=false;render();toast(n||!o.lib||!o.lib.length?L("{0} personaje(s) importado(s)",n):L("{0} entradas agregadas a tu compendio",nl||o.lib.length));
   }catch(e){toast(L("Ese archivo no es una copia de Telita de Mistra"))}
 }

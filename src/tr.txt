@@ -1269,3 +1269,64 @@ Marca borrada|Mark deleted|Marca apagada
 Tocá el mapa para poner una marca. Tocá una marca para editarla o borrarla.|Tap the map to place a mark. Tap a mark to edit or delete it.|Toque o mapa para colocar uma marca. Toque uma marca para editá-la ou apagá-la.
 Dibujá con un dedo. Con dos dedos movés el mapa y hacés zoom.|Draw with one finger. Use two fingers to move and zoom.|Desenhe com um dedo. Com dois dedos você move e dá zoom.
 Pasá el dedo para borrar el dibujo. Tocá una marca para borrarla.|Swipe to erase the drawing. Tap a mark to delete it.|Passe o dedo para apagar o desenho. Toque uma marca para apagá-la.
+Abrí un personaje para aplicarle el clima.|Open a character to apply the weather.|Abra um personagem para aplicar o clima.
+Afecta a {0}|Affects {0}|Afeta {0}
+Aplicar a {0}|Apply to {0}|Aplicar a {0}
+Arena|Sand|Areia
+Borrar este clima|Delete this weather|Apagar este clima
+Brasas y ceniza|Embers and ash|Brasas e cinzas
+Calor|Heat|Calor
+Clima al azar de {0}|Random weather for {0}|Clima aleatório de {0}
+Clima de este mapa|Weather on this map|Clima deste mapa
+Clima de hoy|Today's weather|Clima de hoje
+Clima nuevo|New weather|Clima novo
+Clima puesto|Weather set|Clima definido
+Clima que afecta a {0}|Weather affecting {0}|Clima que afeta {0}
+Climas|Weathers|Climas
+Climas posibles en cada mes (para el clima al azar)|Possible weather each month (for random weather)|Climas possíveis em cada mês (para o clima aleatório)
+Climas programados|Scheduled weather|Climas programados
+Crear o editar climas|Create or edit weathers|Criar ou editar climas
+Cómo se ve en el mapa|How it looks on the map|Como aparece no mapa
+Desde hoy, durante|From today, for|A partir de hoje, durante
+Editar clima|Edit weather|Editar clima
+El del calendario|The calendar's|O do calendário
+Elegí de dónde toma el clima este personaje.|Choose where this character takes its weather from.|Escolha de onde este personagem pega o clima.
+Elegí un clima|Choose a weather|Escolha um clima
+Estados que provoca|Conditions it causes|Estados que provoca
+Inventar un clima|Invent a weather|Inventar um clima
+Nombre (ej.: Yugo del hielo eterno)|Name (e.g.: Yoke of eternal ice)|Nome (ex.: Jugo do gelo eterno)
+Nombre del estado|Condition name|Nome do estado
+Penalizador o bono|Penalty or bonus|Penalidade ou bônus
+Penalizadores y bonos (van a la calculadora de tiradas)|Penalties and bonuses (go to the roll calculator)|Penalidades e bônus (vão para a calculadora de rolagens)
+Poner|Set|Definir
+Prendé el calendario desde el menú para elegir el clima de cada día.|Turn on the calendar from the menu to choose each day's weather.|Ative o calendário no menu para escolher o clima de cada dia.
+Quitar de {0}|Remove from {0}|Tirar de {0}
+Recuperar climas básicos|Restore basic weathers|Recuperar climas básicos
+Se quitaron los efectos del clima|Weather effects removed|Os efeitos do clima foram removidos
+Seguir el calendario|Follow the calendar|Seguir o calendário
+Sigue a {0}: si cambia el clima, los penalizadores cambian solos.|Follows {0}: if the weather changes, penalties update on their own.|Segue {0}: se o clima mudar, as penalidades mudam sozinhas.
+Sin clima|No weather|Sem clima
+Sin efecto visual|No visual effect|Sem efeito visual
+Sin penalizadores.|No penalties.|Sem penalidades.
+Ventisca|Blizzard|Nevasca
+años|years|anos
+desde|from|desde
+días|days|dias
+el calendario|the calendar|o calendário
+el mapa «{0}»|the map «{0}»|o mapa «{0}»
+hasta|until|até
+hoy|today|hoje
+meses|months|meses
+para siempre|forever|para sempre
+un mapa borrado|a deleted map|um mapa apagado
+{0}: se aplicaron sus efectos a {1}|{0}: its effects were applied to {1}|{0}: seus efeitos foram aplicados a {1}
+Despejado|Clear|Céu limpo
+Nevada|Snowfall|Nevasca leve
+Niebla espesa|Thick fog|Neblina densa
+Calor extremo|Extreme heat|Calor extremo
+Tormenta de arena|Sandstorm|Tempestade de areia
+Yugo del hielo eterno|Yoke of eternal ice|Jugo do gelo eterno
+Oscuridad antinatural|Unnatural darkness|Escuridão antinatural
+Escarcha|Frost|Geada
+Viento|Wind|Vento
+Ninguno|None|Nenhum
